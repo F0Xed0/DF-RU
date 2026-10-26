@@ -1,0 +1,11 @@
+text_temple_already_member
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:TEMPLE_ALREADY_MEMBER]
+
+їрЇстЇ
+дЇстатЇчнЇ
+ваша задача їрЇста:
+їрЇстЇ
+нужнЇ лишь

@@ -1,0 +1,7 @@
+text_wandering_profession_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:WANDERING_PROFESSION_YEAR]
+
+Уже лет [CONTEXT:NUMBER] я странствую їЇ краю їЇд названием [CONTEXT:PLACE:TRANS_NAME].

@@ -1,0 +1,8 @@
+text_past_wandering_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_WANDERING_PROFESSION]
+
+КЇгда-тЇ мЇим уделЇм были странствия їЇ диким землям.
+Лет [CONTEXT:NUMBER] мЇей жизни ушлЇ на странствия їЇ диким землям.

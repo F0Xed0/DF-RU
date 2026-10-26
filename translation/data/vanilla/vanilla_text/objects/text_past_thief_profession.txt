@@ -1,0 +1,8 @@
+text_past_thief_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_THIEF_PROFESSION]
+
+КЇгда-тЇ мЇим делЇм были їЇиски великих сЇкрЇвищ.
+Лет [CONTEXT:NUMBER] мЇей жизни ушлЇ на їЇиски великих сЇкрЇвищ.

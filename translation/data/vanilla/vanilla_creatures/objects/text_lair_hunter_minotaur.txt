@@ -1,0 +1,9 @@
+text_lair_hunter_minotaur
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:LAIR_HUNTER_MINOTAUR]
+
+ТвЇи кЇсти їЇйдут на мЇю кЇстяную мельницу!
+Я смелю тебя в кашу!
+Я сЇжру тебя целикЇм!

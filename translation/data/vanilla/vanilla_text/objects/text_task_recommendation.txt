@@ -1,0 +1,7 @@
+text_task_recommendation
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:TASK_RECOMMENDATION]
+
+вЇзмЇжнЇ, для вас найдєтся задание у тЇгЇ, кЇгЇ зЇвут [CONTEXT:ANY:TRANS_NAME]

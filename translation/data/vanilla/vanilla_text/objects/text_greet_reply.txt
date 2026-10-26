@@ -1,0 +1,7 @@
+text_greet_reply
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_REPLY]
+
+А, здравствуйте.  Меня зЇвут [SPEAKER:TRANS_NAME].

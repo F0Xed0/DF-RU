@@ -1,0 +1,7 @@
+text_hist_fig_slayer
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:HIST_FIG_SLAYER]
+
+ЭтЇ мЇя рука сразила тЇгЇ, кЇгЇ звали [CONTEXT:HIST_FIG:TRANS_NAME] ([CONTEXT:HIST_FIG:RACE]).

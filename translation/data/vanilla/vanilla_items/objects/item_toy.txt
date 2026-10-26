@@ -1,0 +1,23 @@
+item_toy
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_PUZZLEBOX]
+[NAME:шкатулка-гЇлЇвЇлЇмка:шкатулки-гЇлЇвЇлЇмки]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BOAT]
+[NAME:игрушечная лЇдка:игрушечные лЇдки]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HAMMER]
+[NAME:игрушечный мЇлЇтЇк:игрушечные мЇлЇтки]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_AXE]
+[NAME:игрушечный тЇїЇр:игрушечные тЇїЇры]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MINIFORGE]
+[NAME:мини-кузня:мини-кузни]
+[HARD_MAT]

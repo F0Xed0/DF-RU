@@ -1,0 +1,8 @@
+text_past_hunting_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_HUNTING_PROFESSION]
+
+КЇгда-тЇ мЇим делЇм была ЇхЇта на круїных зверей.
+Лет [CONTEXT:NUMBER] мЇей жизни ушлЇ на ЇхЇту на мЇгучих зверей.

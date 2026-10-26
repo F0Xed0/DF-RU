@@ -1,0 +1,7 @@
+text_greet
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET]
+
+Приветствую.  Меня зЇвут [SPEAKER:TRANS_NAME].

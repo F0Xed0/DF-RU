@@ -1,0 +1,7 @@
+text_same_site_ab_specific_hf_seeker
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SAME_SITE_AB_SPECIFIC_HF_SEEKER]
+
+найдите тЇгЇ, кЇгЇ зЇвут [CONTEXT:HIST_FIG:TRANS_NAME], ─ здесь, в їЇселении [CONTEXT:SITE:TRANS_NAME], в здании їЇд названием [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]

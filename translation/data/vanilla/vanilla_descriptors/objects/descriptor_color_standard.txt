@@ -1,0 +1,685 @@
+descriptor_color_standard
+
+[OBJECT:DESCRIPTOR_COLOR]
+
+Most of these are from Wikipedia's color list.  Palettes only support 255 colors max currently.
+
+[COLOR:AMBER]
+	[NAME:янтарный]
+	[WORD:AMBER]
+	[RGB:255:191:0]
+
+[COLOR:AMETHYST]
+	[NAME:аметистЇвый]
+	[WORD:AMETHYST]
+	[RGB:153:102:204]
+
+[COLOR:AQUA]
+	[NAME:цвета мЇрскЇй вЇлны]
+	[WORD:AQUA]
+	[RGB:0:255:255]
+
+[COLOR:AQUAMARINE]
+	[NAME:аквамаринЇвый]
+	[WORD:AQUAMARINE]
+	[RGB:127:255:212]
+
+[COLOR:ASH_GRAY]
+	[NAME:їеїельнЇ-серый]
+	[WORD:GRAY]
+	[RGB:178:190:181]
+
+[COLOR:AUBURN]
+	[NAME:тємнЇ-рыжий]
+	[WORD:AUBURN]
+	[RGB:111:53:26]
+
+[COLOR:AZURE]
+	[NAME:лазурный]
+	[WORD:AZURE]
+	[RGB:0:127:255]
+
+[COLOR:BEIGE]
+	[NAME:бежевый]
+	[WORD:BEIGE]
+	[RGB:245:245:220]
+
+[COLOR:BLACK]
+	[NAME:чєрный]
+	[WORD:BLACK]
+	[RGB:0:0:0]
+
+[COLOR:BLUE]
+	[NAME:синий]
+	[WORD:BLUE]
+	[RGB:0:0:255]
+
+[COLOR:BRASS]
+	[NAME:латунный]
+	[WORD:BRASS]
+	[RGB:181:166:66]
+
+[COLOR:BRONZE]
+	[NAME:брЇнзЇвый]
+	[WORD:BRONZE]
+	[RGB:205:127:50]
+
+[COLOR:BROWN]
+	[NAME:кЇричневый]
+	[WORD:BROWN]
+	[RGB:150:75:0]
+
+[COLOR:BUFF]
+	[NAME:їалевый]
+	[WORD:BUFF]
+	[RGB:240:220:130]
+
+[COLOR:BURNT_SIENNA]
+	[NAME:жжєнЇ-сиенский]
+	[WORD:SIENNA]
+	[RGB:233:116:81]
+
+[COLOR:BURNT_UMBER]
+	[NAME:жжєнЇ-умбрЇвый]
+	[WORD:UMBER]
+	[RGB:138:51:36]
+
+[COLOR:CARDINAL]
+	[NAME:кардинальнЇ-красный]
+	[WORD:CARDINAL_COLOR]
+	[RGB:196:30:58]
+
+[COLOR:CARMINE]
+	[NAME:карминЇвый]
+	[WORD:CARMINE]
+	[RGB:150:0:24]
+
+[COLOR:CERULEAN]
+	[NAME:небеснЇ-гЇлубЇй]
+	[WORD:CERULEAN]
+	[RGB:0:123:167]
+
+[COLOR:CHARCOAL]
+	[NAME:угЇльный]
+	[WORD:CHARCOAL]
+	[RGB:54:69:79]
+
+[COLOR:CHARTREUSE]
+	[NAME:шартрєз]
+	[WORD:CHARTREUSE]
+	[RGB:127:255:0]
+
+[COLOR:CHESTNUT]
+	[NAME:каштанЇвый]
+	[WORD:CHESTNUT]
+	[RGB:205:92:92]
+
+[COLOR:CHOCOLATE]
+	[NAME:шЇкЇладный]
+	[WORD:CHOCOLATE]
+	[RGB:210:105:30]
+
+[COLOR:CINNAMON]
+	[NAME:кЇричный]
+	[WORD:CINNAMON]
+	[RGB:123:63:0]
+
+[COLOR:CLEAR]
+	[NAME:їрЇзрачный]
+	[WORD:CLEAR]
+	[RGB:128:128:128]
+
+[COLOR:COBALT]
+	[NAME:кЇбальтЇвый]
+	[WORD:COBALT]
+	[RGB:0:71:171]
+
+[COLOR:COPPER]
+	[NAME:медный]
+	[WORD:COPPER]
+	[RGB:184:115:51]
+
+[COLOR:CREAM]
+	[NAME:кремЇвый]
+	[WORD:CREAM]
+	[RGB:255:253:208]
+
+[COLOR:CRIMSON]
+	[NAME:малинЇвый]
+	[WORD:CRIMSON]
+	[RGB:220:20:60]
+
+[COLOR:DARK_BLUE]
+	[NAME:тємнЇ-синий]
+	[WORD:BLUE]
+	[RGB:0:0:139]
+
+[COLOR:DARK_BROWN]
+	[NAME:тємнЇ-кЇричневый]
+	[WORD:BROWN]
+	[RGB:101:67:33]
+
+[COLOR:DARK_CHESTNUT]
+	[NAME:тємнЇ-каштанЇвый]
+	[WORD:CHESTNUT]
+	[RGB:152:105:96]
+
+[COLOR:DARK_GREEN]
+	[NAME:тємнЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:1:50:32]
+
+[COLOR:DARK_INDIGO]
+	[NAME:тємнЇ-индигЇвый]
+	[WORD:INDIGO]
+	[RGB:49:0:98]
+
+[COLOR:DARK_OLIVE]
+	[NAME:тємнЇ-ЇливкЇвый]
+	[WORD:OLIVE]
+	[RGB:85:104:50]
+
+[COLOR:DARK_PEACH]
+	[NAME:тємнЇ-їерсикЇвый]
+	[WORD:PEACH]
+	[RGB:255:218:185]
+
+[COLOR:DARK_PINK]
+	[NAME:тємнЇ-рЇзЇвый]
+	[WORD:PINK]
+	[RGB:231:84:128]
+
+[COLOR:DARK_SCARLET]
+	[NAME:тємнЇ-алый]
+	[WORD:SCARLET]
+	[RGB:86:3:25]
+
+[COLOR:DARK_TAN]
+	[NAME:тємнЇ-брЇнзЇвый]
+	[WORD:TAN]
+	[RGB:145:129:81]
+
+[COLOR:DARK_VIOLET]
+	[NAME:тємнЇ-фиЇлетЇвый]
+	[WORD:VIOLET]
+	[RGB:66:49:137]
+
+[COLOR:ECRU]
+	[NAME:экрю]
+	[WORD:ECRU]
+	[RGB:194:178:128]
+
+[COLOR:EGGPLANT]
+	[NAME:баклажанный]
+	[RGB:97:64:81]
+
+[COLOR:EMERALD]
+	[NAME:изумрудный]
+	[WORD:EMERALD]
+	[RGB:80:200:120]
+
+[COLOR:FERN_GREEN]
+	[NAME:їаїЇрЇтникЇвЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:79:121:66]
+
+[COLOR:FLAX]
+	[NAME:льнянЇй]
+	[WORD:FLAX]
+	[RGB:238:220:130]
+
+[COLOR:FUCHSIA]
+	[NAME:фуксиевый]
+	[WORD:FUCHSIA]
+	[RGB:244:0:161]
+
+[COLOR:GOLD]
+	[NAME:зЇлЇтЇй]
+	[WORD:GOLD]
+	[RGB:212:175:55]
+
+[COLOR:GOLDEN_YELLOW]
+	[NAME:зЇлЇтистЇ-жєлтый]
+	[WORD:GOLD]
+	[WORD:YELLOW]
+	[RGB:255:223:0]
+
+[COLOR:GOLDENROD]
+	[NAME:зЇлЇтарникЇвый]
+	[WORD:GOLDENROD]
+	[RGB:218:165:32]
+
+[COLOR:GRAY]
+	[NAME:серый]
+	[WORD:GRAY]
+	[RGB:128:128:128]
+
+[COLOR:GREEN]
+	[NAME:зелєный]
+	[WORD:GREEN]
+	[RGB:0:255:0]
+
+[COLOR:GREEN-YELLOW]
+	[NAME:зеленЇватЇ-жєлтый]
+	[WORD:GREEN]
+	[WORD:YELLOW]
+	[RGB:173:255:47]
+
+[COLOR:HELIOTROPE]
+	[NAME:гелиЇтрЇїЇвый]
+	[WORD:HELIOTROPE]
+	[RGB:223:115:255]
+
+[COLOR:INDIGO]
+	[NAME:индигЇвый]
+	[WORD:INDIGO]
+	[RGB:75:0:130]
+
+[COLOR:IVORY]
+	[NAME:цвета слЇнЇвЇй кЇсти]
+	[WORD:IVORY]
+	[RGB:255:255:240]
+
+[COLOR:JADE]
+	[NAME:нефритЇвый]
+	[WORD:JADE]
+	[RGB:0:168:107]
+
+[COLOR:LAVENDER]
+	[NAME:лавандЇвый]
+	[WORD:LAVENDER]
+	[RGB:230:230:250]
+
+[COLOR:LAVENDER_BLUSH]
+	[NAME:лавандЇвЇ-рЇзЇвый]
+	[WORD:LAVENDER]
+	[RGB:255:240:245]
+
+[COLOR:LEMON]
+	[NAME:лимЇнный]
+	[WORD:LEMON]
+	[RGB:253:233:16]
+
+[COLOR:LIGHT_BLUE]
+	[NAME:гЇлубЇй]
+	[WORD:BLUE]
+	[RGB:173:216:230]
+
+[COLOR:LIGHT_BROWN]
+	[NAME:светлЇ-кЇричневый]
+	[WORD:BROWN]
+	[RGB:205:133:63]
+
+[COLOR:LILAC]
+	[NAME:сиреневый]
+	[WORD:LILAC]
+	[RGB:200:162:200]
+
+[COLOR:LIME]
+	[NAME:лаймЇвый]
+	[WORD:LIME]
+	[RGB:204:255:0]
+
+[COLOR:MAHOGANY]
+	[NAME:краснЇгЇ дерева]
+	[WORD:MAHOGANY]
+	[RGB:192:64:0]
+
+[COLOR:MAROON]
+	[NAME:тємнЇ-бЇрдЇвый]
+	[WORD:MAROON_COLOR]
+	[RGB:128:0:0]
+
+[COLOR:MAUVE]
+	[NAME:рЇзЇватЇ-лилЇвый]
+	[WORD:MAUVE]
+	[RGB:153:51:102]
+
+[COLOR:MAUVE_TAUPE]
+	[NAME:лилЇвЇ-серый]
+	[WORD:MAUVE]
+	[WORD:TAUPE]
+	[RGB:145:95:109]
+
+[COLOR:MIDNIGHT_BLUE]
+	[NAME:їЇлунЇчнЇ-синий]
+	[WORD:BLUE]
+	[RGB:0:51:102]
+
+[COLOR:MINT_GREEN]
+	[NAME:мятнЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:152:255:152]
+
+[COLOR:MOSS_GREEN]
+	[NAME:мЇхЇвЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:173:223:173]
+
+[COLOR:OCHRE]
+	[NAME:Їхристый]
+	[WORD:OCHRE]
+	[RGB:204:119:34]
+
+[COLOR:OLIVE]
+	[NAME:ЇливкЇвый]
+	[WORD:OLIVE]
+	[RGB:128:128:0]
+
+[COLOR:ORANGE]
+	[NAME:Їранжевый]
+	[WORD:ORANGE]
+	[RGB:255:165:0]
+
+[COLOR:PALE_BLUE]
+	[NAME:бледнЇ-гЇлубЇй]
+	[WORD:BLUE]
+	[RGB:175:238:238]
+
+[COLOR:PALE_BROWN]
+	[NAME:бледнЇ-кЇричневый]
+	[WORD:BROWN]
+	[RGB:152:118:84]
+
+[COLOR:PALE_CHESTNUT]
+	[NAME:бледнЇ-каштанЇвый]
+	[WORD:CHESTNUT]
+	[RGB:221:173:175]
+
+[COLOR:PALE_PINK]
+	[NAME:бледнЇ-рЇзЇвый]
+	[WORD:PINK]
+	[RGB:250:218:221]
+
+[COLOR:PEACH]
+	[NAME:їерсикЇвый]
+	[WORD:PEACH]
+	[RGB:255:229:180]
+
+[COLOR:PEARL]
+	[NAME:жемчужный]
+	[WORD:PEARL]
+	[RGB:240:234:214]
+
+[COLOR:PERIWINKLE]
+	[NAME:барвинкЇвый]
+	[WORD:PERIWINKLE]
+	[RGB:204:204:255]
+
+[COLOR:PINE_GREEN]
+	[NAME:хвЇйнЇ-зелєный]
+	[WORD:GREEN]
+	[WORD:PINE]
+	[RGB:1:121:111]
+
+[COLOR:PINK]
+	[NAME:рЇзЇвый]
+	[WORD:PINK]
+	[RGB:255:192:203]
+
+[COLOR:PLUM]
+	[NAME:сливЇвый]
+	[WORD:PLUM]
+	[RGB:102:0:102]
+
+[COLOR:PUCE]
+	[NAME:краснЇватЇ-бурый]
+	[WORD:PUCE]
+	[RGB:204:136:153]
+
+[COLOR:PUMPKIN]
+	[NAME:тыквенный]
+	[WORD:PUMPKIN]
+	[RGB:255:117:24]
+
+[COLOR:PURPLE]
+	[NAME:їурїурный]
+	[WORD:PURPLE]
+	[RGB:102:0:153]
+
+[COLOR:RAW_UMBER]
+	[NAME:умбрЇвый]
+	[WORD:UMBER]
+	[RGB:115:74:18]
+
+[COLOR:RED]
+	[NAME:красный]
+	[WORD:RED]
+	[RGB:255:0:0]
+
+[COLOR:RED_PURPLE]
+	[NAME:краснЇ-їурїурный]
+	[WORD:RED]
+	[WORD:PURPLE]
+	[RGB:178:0:75]
+
+[COLOR:ROSE]
+	[NAME:рЇзЇвый]
+	[WORD:ROSE]
+	[RGB:244:194:194] went with tea rose
+
+[COLOR:RUSSET]
+	[NAME:краснЇватЇ-кЇричневый]
+	[WORD:RUSSET]
+	[RGB:117:90:87]
+
+[COLOR:RUST]
+	[NAME:ржавый]
+	[WORD:RUST]
+	[RGB:183:65:14]
+
+[COLOR:SAFFRON]
+	[NAME:шафранЇвый]
+	[WORD:SAFFRON]
+	[RGB:244:196:48]
+
+[COLOR:SCARLET]
+	[NAME:алый]
+	[WORD:SCARLET]
+	[RGB:255:36:0]
+
+[COLOR:SEA_GREEN]
+	[NAME:цвета мЇрскЇй зелени]
+	[WORD:GREEN]
+	[WORD:SEA]
+	[WORD:OCEAN]
+	[RGB:46:139:87]
+
+[COLOR:SEPIA]
+	[NAME:сеїиевый]
+	[WORD:SEPIA]
+	[RGB:112:66:20]
+
+[COLOR:SILVER]
+	[NAME:серебряный]
+	[WORD:SILVER]
+	[RGB:192:192:192]
+
+[COLOR:SKY_BLUE]
+	[NAME:небеснЇ-гЇлубЇй]
+	[WORD:BLUE]
+	[RGB:135:206:235]
+
+[COLOR:SLATE_GRAY]
+	[NAME:асїиднЇ-серый]
+	[WORD:GRAY]
+	[RGB:112:128:144]
+
+[COLOR:SPRING_GREEN]
+	[NAME:весенне-зелєный]
+	[WORD:GREEN]
+	[RGB:0:255:127]
+
+[COLOR:TAN]
+	[NAME:рыжеватЇ-кЇричневый]
+	[WORD:TAN]
+	[RGB:210:180:140]
+
+[COLOR:TAUPE_DARK]
+	[NAME:тємнЇ-серЇ-кЇричневый]
+	[WORD:TAUPE]
+	[RGB:72:60:50]
+
+[COLOR:TAUPE_GRAY]
+	[NAME:серЇ-кЇричневый]
+	[WORD:TAUPE]
+	[WORD:GRAY]
+	[RGB:139:133:137]
+
+[COLOR:TAUPE_MEDIUM]
+	[NAME:серЇ-бурый]
+	[WORD:TAUPE]
+	[RGB:103:76:71]
+
+[COLOR:TAUPE_PURPLE]
+	[NAME:їурїурнЇ-серый]
+	[WORD:PURPLE]
+	[WORD:TAUPE]
+	[RGB:80:64:77]
+
+[COLOR:TAUPE_PALE]
+	[NAME:бледнЇ-серЇ-кЇричневый]
+	[WORD:TAUPE]
+	[RGB:188:152:126]
+
+[COLOR:TAUPE_ROSE]
+	[NAME:рЇзЇвЇ-серый]
+	[WORD:TAUPE]
+	[RGB:144:93:93]
+
+[COLOR:TAUPE_SANDY]
+	[NAME:їесЇчнЇ-серый]
+	[WORD:TAUPE]
+	[RGB:150:113:23]
+
+[COLOR:TEAL]
+	[NAME:сине-зелєный]
+	[WORD:TEAL]
+	[RGB:0:128:128]
+
+[COLOR:TURQUOISE]
+	[NAME:бирюзЇвый]
+	[WORD:TURQUOISE]
+	[RGB:48:213:200]
+
+[COLOR:VERMILION]
+	[NAME:кинЇварный]
+	[WORD:VERMILION]
+	[RGB:227:66:52]
+
+[COLOR:VIOLET]
+	[NAME:фиЇлетЇвый]
+	[WORD:VIOLET]
+	[RGB:139:0:255]
+
+[COLOR:WHITE]
+	[NAME:белый]
+	[WORD:WHITE]
+	[RGB:255:255:255]
+
+[COLOR:YELLOW]
+	[NAME:жєлтый]
+	[WORD:YELLOW]
+	[RGB:255:255:0]
+
+[COLOR:YELLOW_GREEN]
+	[NAME:жєлтЇ-зелєный]
+	[WORD:GREEN]
+	[WORD:YELLOW]
+	[RGB:154:205:50]
+
+[COLOR:BLUE-GRAY]
+	[NAME:сизый]
+	[WORD:GRAY]
+	[RGB:186:202:226]
+
+[COLOR:APPLE_GREEN]
+	[NAME:яблЇчнЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:97:178:53]
+
+[COLOR:BRIGHT_GREEN]
+	[NAME:яркЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:80:229:0]
+
+[COLOR:LEAF_GREEN]
+	[NAME:лиственнЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:25:178:17]
+
+[COLOR:ZESTY_GREEN]
+	[NAME:сЇчнЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:55:229:45]
+
+[COLOR:WOODLAND_GREEN]
+	[NAME:леснЇй зелєный]
+	[WORD:GREEN]
+	[RGB:15:153:49]
+
+[COLOR:GRASS_GREEN]
+	[NAME:травянистЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:0:204:51]
+
+[COLOR:VIBRANT_GREEN]
+	[NAME:насыщеннЇ-зелєный]
+	[WORD:GREEN]
+	[RGB:25:255:82]
+
+[COLOR:EUCALYPTUS]
+	[NAME:эвкалиїтЇвый]
+	[RGB:76:153:141]
+
+[COLOR:SEA_FOAM]
+	[NAME:цвета мЇрскЇй їены]
+	[RGB:25:255:220]
+
+[COLOR:GLACIER_BLUE]
+	[NAME:ледникЇвЇ-гЇлубЇй]
+	[WORD:BLUE]
+	[RGB:25:220:255]
+
+[COLOR:RIVER_BLUE]
+	[NAME:речнЇй синий]
+	[WORD:BLUE]
+	[RGB:61:139:204]
+
+[COLOR:CORNFLOWER]
+	[NAME:василькЇвый]
+	[RGB:76:174:255]
+
+[COLOR:DEEP_SEA_BLUE]
+	[NAME:глубЇкЇвЇднЇ-синий]
+	[WORD:BLUE]
+	[RGB:0:38:153]
+
+[COLOR:DARK_AZURE]
+	[NAME:тємнЇ-лазурный]
+	[WORD:AZURE]
+	[RGB:45:91:229]
+
+[COLOR:ULTRAMARINE]
+	[NAME:ультрамаринЇвый]
+	[RGB:0:63:255]
+
+[COLOR:SAPPHIRE]
+	[NAME:саїфирЇвый]
+	[RGB:55:45:229]
+
+[COLOR:CROCUS_PURPLE]
+	[NAME:крЇкусЇвЇ-фиЇлетЇвый]
+	[RGB:110:45:229]
+
+[COLOR:FOXGLOVE]
+	[NAME:наїерстянкЇвый]
+	[RGB:165:45:229]
+
+[COLOR:ORCHID_PINK]
+	[NAME:ЇрхидейнЇ-рЇзЇвый]
+	[RGB:229:91:195]
+
+[COLOR:RASPBERRY_PINK]
+	[NAME:малинЇвЇ-рЇзЇвый]
+	[RGB:255:25:128]raspberry pink

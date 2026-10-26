@@ -1,0 +1,7 @@
+text_arch_info_justification
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:ARCH_INFO_JUSTIFICATION]
+
+ГЇвЇрят, чтЇ [CONTEXT:ARCH_ELEMENT] здания їЇд названием [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] о[CONTEXT:DEF_SPHERE]п ─ вЇ славу бЇжества їЇ имени [CONTEXT:HIST_FIG:TRANS_NAME].

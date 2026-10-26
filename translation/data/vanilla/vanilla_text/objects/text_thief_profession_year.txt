@@ -1,0 +1,7 @@
+text_thief_profession_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:THIEF_PROFESSION_YEAR]
+
+Я ищу сЇкрЇвища и їринЇшу их в край їЇд названием [CONTEXT:PLACE:TRANS_NAME] ─ и так уже лет [CONTEXT:NUMBER].

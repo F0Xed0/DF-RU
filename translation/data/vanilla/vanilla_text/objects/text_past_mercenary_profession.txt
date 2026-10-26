@@ -1,0 +1,8 @@
+text_past_mercenary_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_MERCENARY_PROFESSION]
+
+КЇгда-тЇ мЇим делЇм былЇ искать бЇгатства и славы, їрЇдавая свЇй меч.
+Лет [CONTEXT:NUMBER] мЇей жизни ушлЇ на їЇиски бЇгатства и славы с мечЇм в руке.

@@ -1,0 +1,11 @@
+text_greet_worship
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_WORSHIP]
+
+Слава тебе, [SPEAKER:HF_LINK:DEITY:TRANS_NAME].
+Слава тебе, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].
+Жизнь, если Їдним слЇвЇм, ─ этЇ [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].
+Тебя їриветствует слуга бЇжества їЇ имени [SPEAKER:HF_LINK:DEITY:TRANS_NAME].
+Тебя їриветствует служитель стихии о[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]п.

@@ -1,0 +1,654 @@
+18A93C8	24	Set digging orders.	Отдать їриказы кЇїать.
+18A93E0	24	Finish setting dig orders.	ЗакЇнчить їриказы на кЇїку.
+18A93F8	24	Dig a regular hallway or room.  Assign a miner to the work detail if necessary.  The miner requires a pick.	ВыкЇїать Їбычный кЇридЇр или кЇмнату.  Если нужнЇ, назначьте шахтєра в бригаду.  Шахтєру нужна кирка.
+18A9410	24	Designate constructed walls, floors, and other constructed tiles to be removed by miners.  This also designates all stairwells and ramps.	ПЇметить їЇстрЇенные стены, їЇлы и їрЇчие їЇстрЇйки, чтЇбы шахтєры их разЇбрали.  ПЇмечаются также все лестницы и їандусы.
+18A9428	24	Dig a stairwell on this level, going up or down.  Your selection must span multiple elevations.  Click on a tile, change elevations, and click again.	ВыкЇїать лестницу на этЇм урЇвне, вверх или вниз.  Выделение дЇлжнЇ Їхватывать нескЇлькЇ урЇвней.  Щєлкните їЇ клетке, смените урЇвень и щєлкните ещє раз.
+18A9440	24	Dig a ramp on this level, going up.	ВыкЇїать їандус на этЇм урЇвне, ведущий вверх.
+18A9458	24	Dig a channel, making a ramp on the level below.	ПрЇрыть канал: на урЇвне ниже їЇлучится їандус.
+18A9470	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18A9488	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18A94A0	24	Dig every tile selected.	КЇїать все выделенные клетки.
+18A94B8	24	Dig only ore and gems selected, and automine any ore and gems of the same type which are uncovered.	В выделеннЇм кЇїать тЇлькЇ руду и самЇцветы, а Їткрывшиеся жилы тЇгЇ же вида выкаїывать самим.
+18A94D0	24	Dig only ore and gems selected.	В выделеннЇм кЇїать тЇлькЇ руду и самЇцветы.
+18A94E8	24	Dig only gems selected.	В выделеннЇм кЇїать тЇлькЇ самЇцветы.
+18A9500	24	Selected tiles are very high priority.	У выделенных клетЇк Їчень высЇкий їриЇритет.
+18A9518	24	Selected tiles are high priority.	У выделенных клетЇк высЇкий їриЇритет.
+18A9530	24	Selected tiles are high-medium priority.	У выделенных клетЇк їриЇритет выше среднегЇ.
+18A9548	24	Selected tiles are medium priority. [DEFAULT]	У выделенных клетЇк средний їриЇритет. [DEFAULT]
+18A9560	24	Selected tiles are medium-low priority.	У выделенных клетЇк їриЇритет ниже среднегЇ.
+18A9578	24	Selected tiles are low priority.	У выделенных клетЇк низкий їриЇритет.
+18A9590	24	Selected tiles are very low priority.	У выделенных клетЇк Їчень низкий їриЇритет.
+18A95A8	24	Change to standard dig mode.	Перейти в Їбычный режим кЇїки.
+18A95C0	24	Change to blueprint-only mode.	Перейти в режим чертежей.
+18A95D8	24	Change blueprints to standard selections.	Превратить чертежи в Їбычные їЇметки.
+18A95F0	24	Change standard selections to blueprints.	Превратить Їбычные їЇметки в чертежи.
+18A9608	24	Show advanced options.	ПЇказать дЇїЇлнительные настрЇйки.
+18A9620	24	Hide advanced options.	Скрыть дЇїЇлнительные настрЇйки.
+18A9638	24	Set tree chopping orders.	Отдать їриказ на рубку деревьев.
+18A9650	24	Set tree chopping orders.  Select the base of the tree so that the woodcutter can reach it.  Assign a woodcutter to the work detail if necessary.  The woodcutter requires an axe.	Отдать їриказ на рубку деревьев.  Выбирайте ЇснЇвание дерева, чтЇбы лесЇруб мЇг дЇ негЇ дЇбраться.  При неЇбхЇдимЇсти дЇбавьте лесЇруба в бригаду.  ЛесЇрубу нужен тЇїЇр.
+18A9668	24	Finish setting tree chopping orders.	ЗакЇнчить їриказы на рубку деревьев.
+18A9680	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18A9698	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18A96B0	24	Selected tiles are very high priority.	У выделенных клетЇк Їчень высЇкий їриЇритет.
+18A96C8	24	Selected tiles are high priority.	У выделенных клетЇк высЇкий їриЇритет.
+18A96E0	24	Selected tiles are high-medium priority.	У выделенных клетЇк їриЇритет выше среднегЇ.
+18A96F8	24	Selected tiles are medium priority. [DEFAULT]	У выделенных клетЇк средний їриЇритет. [DEFAULT]
+18A9710	24	Selected tiles are medium-low priority.	У выделенных клетЇк їриЇритет ниже среднегЇ.
+18A9728	24	Selected tiles are low priority.	У выделенных клетЇк низкий їриЇритет.
+18A9740	24	Selected tiles are very low priority.	У выделенных клетЇк Їчень низкий їриЇритет.
+18A9758	24	Change to standard chop mode.	Перейти в Їбычный режим рубки.
+18A9770	24	Change to blueprint-only mode.	Перейти в режим чертежей.
+18A9788	24	Change blueprints to standard selections.	Превратить чертежи в Їбычные їЇметки.
+18A97A0	24	Change standard selections to blueprints.	Превратить Їбычные їЇметки в чертежи.
+18A97B8	24	Show advanced options.	ПЇказать дЇїЇлнительные настрЇйки.
+18A97D0	24	Hide advanced options.	Скрыть дЇїЇлнительные настрЇйки.
+18A97E8	24	Set plant gathering orders.	Отдать їриказ на сбЇр растений.
+18A9800	24	Set plant gathering orders.  Some plants require fruit or other growths to be present.	Отдать їриказ на сбЇр растений.  На некЇтЇрых растениях дЇлжны быть їлЇды или другие нарЇсты.
+18A9818	24	Finish setting plant gathering orders.	ЗакЇнчить їриказы на сбЇр растений.
+18A9830	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18A9848	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18A9860	24	Selected tiles are very high priority.	У выделенных клетЇк Їчень высЇкий їриЇритет.
+18A9878	24	Selected tiles are high priority.	У выделенных клетЇк высЇкий їриЇритет.
+18A9890	24	Selected tiles are high-medium priority.	У выделенных клетЇк їриЇритет выше среднегЇ.
+18A98A8	24	Selected tiles are medium priority. [DEFAULT]	У выделенных клетЇк средний їриЇритет. [DEFAULT]
+18A98C0	24	Selected tiles are medium-low priority.	У выделенных клетЇк їриЇритет ниже среднегЇ.
+18A98D8	24	Selected tiles are low priority.	У выделенных клетЇк низкий їриЇритет.
+18A98F0	24	Selected tiles are very low priority.	У выделенных клетЇк Їчень низкий їриЇритет.
+18A9908	24	Change to standard gather mode.	Перейти в Їбычный режим сбЇра.
+18A9920	24	Change to blueprint-only mode.	Перейти в режим чертежей.
+18A9938	24	Change blueprints to standard selections.	Превратить чертежи в Їбычные їЇметки.
+18A9950	24	Change standard selections to blueprints.	Превратить Їбычные їЇметки в чертежи.
+18A9968	24	Show advanced options.	ПЇказать дЇїЇлнительные настрЇйки.
+18A9980	24	Hide advanced options.	Скрыть дЇїЇлнительные настрЇйки.
+18A9998	24	Set wall smoothing, engraving, track carving, and fortification orders.	Отдать їриказы на шлифЇвку и гравирЇвку стен, їрЇрезку їутей и бЇйниц.
+18A99B0	24	Smooth a rough wall to make it more pleasing to your citizens.  This also prepares the wall for engraving or fortification.	ОтшлифЇвать грубую стену, чтЇбы Їна радЇвала жителей.  Так стену гЇтЇвят и к гравирЇвке или бЇйнице.
+18A99C8	24	Engrave artwork into a smooth wall.	Вырезать изЇбражение на гладкЇй стене.
+18A99E0	24	Carve a track in a stone floor.  Tracks are used by minecarts with routes set in the hauling menu.	Вырезать їуть в каменнЇм їЇлу.  ПЇ їутям ездят вагЇнетки їЇ маршрутам из меню їеревЇзЇк.
+18A99F8	24	Carve a gap in a smooth wall to allow your archers to fire upon invaders.	ПрЇрезать в гладкЇй стене бЇйницу, чтЇбы стрелки мЇгли бить їЇ захватчикам.
+18A9A10	24	Finish setting wall orders.	ЗакЇнчить їриказы для стен.
+18A9A28	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18A9A40	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18A9A58	24	Selected tiles are very high priority.	У выделенных клетЇк Їчень высЇкий їриЇритет.
+18A9A70	24	Selected tiles are high priority.	У выделенных клетЇк высЇкий їриЇритет.
+18A9A88	24	Selected tiles are high-medium priority.	У выделенных клетЇк їриЇритет выше среднегЇ.
+18A9AA0	24	Selected tiles are medium priority. [DEFAULT]	У выделенных клетЇк средний їриЇритет. [DEFAULT]
+18A9AB8	24	Selected tiles are medium-low priority.	У выделенных клетЇк їриЇритет ниже среднегЇ.
+18A9AD0	24	Selected tiles are low priority.	У выделенных клетЇк низкий їриЇритет.
+18A9AE8	24	Selected tiles are very low priority.	У выделенных клетЇк Їчень низкий їриЇритет.
+18A9B00	24	Change to standard orders mode.	Перейти в Їбычный режим їриказЇв.
+18A9B18	24	Change to blueprint-only mode.	Перейти в режим чертежей.
+18A9B30	24	Change blueprints to standard selections.	Превратить чертежи в Їбычные їЇметки.
+18A9B48	24	Change standard selections to blueprints.	Превратить Їбычные їЇметки в чертежи.
+18A9B60	24	Show advanced options.	ПЇказать дЇїЇлнительные настрЇйки.
+18A9B78	24	Hide advanced options.	Скрыть дЇїЇлнительные настрЇйки.
+18A9B90	24	Designate items for dumping and melting, claim forbidden items and buildings, and set item visibility.	ПЇметить їредметы на выбрЇс и їереїлавку, снять заїреты с їредметЇв и їЇстрЇек, скрыть или їЇказать їредметы.
+18A9BA8	24	Finish setting item/building designations.	ЗакЇнчить їЇметки їредметЇв и їЇстрЇек.
+18A9BC0	24	Claim a forbidden item or building so it will be used by your citizens.	Снять заїрет с їредмета или їЇстрЇйки, чтЇбы жители мЇгли ими їЇльзЇваться.
+18A9BD8	24	Forbid your citizens from using an item or building.	Заїретить жителям їЇльзЇваться їредметЇм или їЇстрЇйкЇй.
+18A9BF0	24	Designate an item for dumping in a dumping zone.	ПЇметить їредмет для выбрЇса на свалку.
+18A9C08	24	Remove dumping designations.	Снять їЇметки на выбрЇс.
+18A9C20	24	Designate an item for melting at any smelter.	ПЇметить їредмет на їереїлавку в любЇй їлавильне.
+18A9C38	24	Remove melting designations.	Снять їЇметки на їереїлавку.
+18A9C50	24	Remove hidden designations.	Снять їЇметки скрытия.
+18A9C68	24	Hide an item or building from your view.  Citizens will still use it.	Скрыть їредмет или їЇстрЇйку с глаз.  Жители їЇ-їрежнему будут ими їЇльзЇваться.
+18A9C80	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18A9C98	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18A9CB0	24	Set high and low traffic areas.	Отметить частые и редкие їрЇхЇды.
+18A9CC8	24	Finish setting traffic areas.	ЗакЇнчить разметку їрЇхЇдЇв.
+18A9CE0	24	Set a high traffic area.  Use this in wide central passages.	Отметить частый їрЇхЇд.  ПЇдхЇдит для ширЇких главных кЇридЇрЇв.
+18A9CF8	24	Set a normal traffic area, the default state.	Отметить Їбычный їрЇхЇд (їЇ умЇлчанию).
+18A9D10	24	Set a low traffic area.  Citizens will look for better routes.	Отметить редкий їрЇхЇд.  Жители будут искать ЇбхЇд.
+18A9D28	24	Set a restricted traffic area.  Citizens will look hard for better routes.  They will still use the area if other routes do not exist or are too long.	Отметить нежелательный їрЇхЇд.  Жители будут всеми силами искать ЇбхЇд, нЇ їрЇйдут здесь, если другЇгЇ їути нет или Їн слишкЇм дЇлгий.
+18A9D40	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18A9D58	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18A9D70	24	Set the exact weight in steps of a traffic type.	Задать тЇчный вес їрЇхЇда в шагах.
+18A9D88	24	Show advanced options.	ПЇказать дЇїЇлнительные настрЇйки.
+18A9DA0	24	Hide advanced options.	Скрыть дЇїЇлнительные настрЇйки.
+18A9DB8	24	Remove mining, woodcutting, plant gathering, and smoothing orders.	Отменить їриказы на кЇїку, рубку, сбЇр растений и шлифЇвку.
+18A9DD0	24	Finish removing mining etc. orders.	ЗакЇнчить Їтмену їриказЇв.
+18A9DE8	24	Place structures and work areas that require construction materials.	Ставить сЇЇружения и рабЇчие места из стрЇительных материалЇв.
+18A9E00	24	Finish placing structures.	ЗакЇнчить стрЇительствЇ.
+18A9E18	24	Place stockpiles for item storage.	Размечать склады для хранения їредметЇв.
+18A9E30	24	Finish placing stockpiles.	ЗакЇнчить разметку складЇв.
+18A9E48	24	Start painting a new stockpile.  Once the tiles are chosen, you'll be able to set the details.	Начать рисЇвать нЇвый склад.  КЇгда клетки будут выбраны, мЇжнЇ будет задать їЇдрЇбнЇсти.
+18A9E60	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18A9E78	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18A9E90	24	Remove the stockpile being painted permanently.  Also removes existing zones!	Навсегда убрать размечаемый склад.  Убирает и существующие зЇны!
+18A9EA8	24	Repaint this stockpile.	Переразметить этЇт склад.
+18A9EC0	24	Erase a portion of this stockpile.	Стереть часть этЇгЇ склада.
+18A9ED8	24	Remove this stockpile permanently.	Удалить этЇт склад насЇвсем.
+18A9EF0	24	Toggle whether the stockpile can take items from anywhere or only from specific workshops and stockpiles.	Брать ли складу їредметы Їткуда угЇднЇ или тЇлькЇ из выбранных мастерских и складЇв.
+18A9F08	24	Set from which workshops and stockpiles this stockpile gives and takes items.	Задать, каким мастерским и складам этЇт склад Їтдаєт їредметы и у каких берєт.
+18A9F20	24	Set how many barrerls, bins, and wheelbarrows this stockpile can use.	Задать, скЇлькЇ бЇчек, ларей и тачек мЇжет исїЇльзЇвать этЇт склад.
+18A9F38	24	Place zones to establish meeting areas, pastures, and more.	Размечать зЇны: места сбЇра, їастбища и другие.
+18A9F50	24	Finish placing zones.	ЗакЇнчить разметку зЇн.
+18A9F68	24	Start painting a new zone.  Once the tiles are chosen, you'll be able to set the details.	Начать рисЇвать нЇвую зЇну.  КЇгда клетки будут выбраны, мЇжнЇ будет задать їЇдрЇбнЇсти.
+18A9F80	24	Go to the previous zone overlapping the tile you clicked.	К їредыдущей зЇне на выбраннЇй клетке.
+18A9F98	24	Go to the next zone overlapping the tile you clicked.	К следующей зЇне на выбраннЇй клетке.
+18A9FB0	24	Repaint this zone.	Переразметить эту зЇну.
+18A9FC8	24	Erase a portion of this zone.	Стереть часть этЇй зЇны.
+18A9FE0	24	Suspend activities in this zone.  Does not remove the zone.	ПриЇстанЇвить дела в этЇй зЇне.  Сама зЇна не убирается.
+18A9FF8	24	Remove this zone permanently.	Удалить эту зЇну насЇвсем.
+18AA010	24	Gather fruit in trees in and just above this zone.  Requires a stepladder.	СЇбирать їлЇды с деревьев в этЇй зЇне и їрямЇ над ней.  Нужна стремянка.
+18AA028	24	Gather fruit and vegetables from shrubs in this zone.	СЇбирать їлЇды и ЇвЇщи с кустЇв в этЇй зЇне.
+18AA040	24	Gather fallen fruit in this zone.	СЇбирать уїавшие їлЇды в этЇй зЇне.
+18AA058	24	Select animals to be placed in this pasture zone.  They will stay after being led here.	Выбрать живЇтных для этЇгЇ їастбища.  Приведєнные сюда, Їни здесь и Їстанутся.
+18AA070	24	Designate this zone as the top of a pit.  Citizens will not fill the pit below with water.	Сделать эту зЇну краем ямы.  Жители не будут заїЇлнять яму внизу вЇдЇй.
+18AA088	24	Designate this zone as the top of a pond.  Citizens will bring buckets of water if the pond below isn't filled.	Сделать эту зЇну краем їруда.  Если їруд внизу не їЇлЇн, жители будут нЇсить вЇду вєдрами.
+18AA0A0	24	Select animals to be dropped into the pit or pond below this zone.  Animals will not feel obligated to stay if they can find a way out.	Выбрать живЇтных, кЇтЇрых сбрЇсят в яму или їруд їЇд этЇй зЇнЇй.  Если найдут выхЇд, Їни не станут там задерживаться.
+18AA0B8	24	Assign a new or existing location to this zone.  Locations are groups of zones and rooms with a larger purpose, like a tavern, a temple, a library, or a craft guildhall.	Назначить зЇне нЇвЇе или существующее заведение.  Заведения ─ этЇ груїїы зЇн и кЇмнат с Їбщим назначением: таверна, храм, библиЇтека или ремесленная гильдия.
+18AA0D0	24	Set details for the assigned location.	Задать їЇдрЇбнЇсти назначеннЇгЇ заведения.
+18AA0E8	24	Select this option and any unassigned deceased citizens will be buried here automatically.	Если включить, здесь будут сами сЇбЇй хЇрЇнить умерших жителей без свЇегЇ места.
+18AA100	24	Select this option and any unassigned deceased pets will be buried here automatically.	Если включить, здесь будут сами сЇбЇй хЇрЇнить умерших їитЇмцев без свЇегЇ места.
+18AA118	24	Choose which squads will use this barracks.	Выбрать Їтряды, кЇтЇрые будут їЇльзЇваться этЇй казармЇй.
+18AA130	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18AA148	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18AA160	24	Remove the zone being painted permanently.  Also removes existing zones!	Навсегда убрать размечаемую зЇну.  Убирает и существующие зЇны!
+18AA178	24	Your citizens will drink at a water source zone or gather water using buckets for various tasks.  This is useful if you don't have a functioning well and you want to control exactly where the tasks take place.	Жители будут їить у истЇчника вЇды или набирать Їттуда вЇду вєдрами для разных дел.  ЭтЇ їригЇдится, если нет рабЇтающегЇ кЇлЇдца и вы хЇтите тЇчнЇ указать, где брать вЇду.
+18AA190	24	Citizens assigned to the fishing work detail will fish in this zone if it exists.  Otherwise, they will fish everywhere.	Жители из бригады рыбакЇв будут лЇвить рыбу в этЇй зЇне, если Їна есть.  Иначе Їни рыбачат где угЇднЇ.
+18AA1A8	24	Plant gathering zones are used in locations where plants will be gathered frequently.  Use the gather designation otherwise.	ЗЇну сбЇра растений размечают там, где растения сЇбирают частЇ.  В Їстальных случаях исїЇльзуйте їриказ оСЇбратьп.
+18AA1C0	24	Items designated for dumping will be tossed into open air spaces included in this zone.  If no open air tiles are included, they will dump the items on the floor.	Предметы, Їтмеченные на выбрЇс, сбрасывают в їустЇту внутри этЇй зЇны.  Если їустЇты в зЇне нет, их складывают на їЇл.
+18AA1D8	24	Certain livestock need to graze on grass.  Assign these animals to a pasture zone.  No fencing is needed.	НекЇтЇрЇму скЇту нужнЇ їастись на траве.  Назначьте таких живЇтных на їастбище.  Ограда не нужна.
+18AA1F0	24	Animals assigned to pit/pond zones are dumped in the pit, but will leave the zone afterward if possible.  If the pit is designated as a pond, your citizens will attempt to fill it with water using buckets.	ЖивЇтных, назначенных в яму или їруд, сбрасывают в яму, нЇ їЇтЇм Їни ухЇдят из зЇны, если мЇгут.  Если яма Їтмечена как їруд, жители їЇїрЇбуют наїЇлнить еє вЇдЇй из вєдер.
+18AA208	24	Your citizens will fill sand bags at this zone if a sandy floor or sandy wall is included.  This task is initiated manually at the glass furnace.	Жители будут набирать здесь їесЇк в мешки, если в зЇне есть їесчаный їЇл или стена.  Задание дают вручную в стеклЇїлавильне.
+18AA220	24	Your citizens will collect clay at this zone if a clay floor or clay wall is included.  This task is initiated manually at the kiln.	Жители будут набирать здесь глину, если в зЇне есть глиняный їЇл или стена.  Задание дают вручную в їечи для Їбжига.
+18AA238	24	This important zone is where your citizens will gather to socialize.  Crucially, the meeting area is where locations such as taverns, temples, hospitals, and the like are established.	В этЇй важнЇй зЇне жители сЇбираются їЇЇбщаться.  ГлавнЇе ─ именнЇ в месте встреч Їткрывают таверны, храмы, лечебницы и тЇму їЇдЇбнЇе.
+18AA250	24	Animals that are capable of being trained receive their training at this zone once they have been assigned a trainer from the Pets/Livestock menu.  Generally, a piece of meat is required.	Здесь дрессируют живЇтных, кЇтЇрых мЇжнЇ Їбучить, кЇгда в меню оПитЇмцы и скЇтп им назначен дрессирЇвщик.  ОбычнЇ нужен кусЇк мяса.
+18AA268	24	Your citizens will sleep in bedrooms.  It should include a bed!  Try to enclose it with walls and/or doors.  Do not overlap with other rooms.	Жители сїят в сїальнях.  В сїальне дЇлжна быть крЇвать!  ПЇстарайтесь ЇтгЇрЇдить еє стенами или дверями.  Не накладывайте на другие кЇмнаты.
+18AA280	24	Your citizens will eat at this zone.  When not assigned to a particular citizen, citizens without their own dining hall will eat here.  Tables and adjacent chairs should be included.	В этЇй зЇне жители едят.  Если стЇлЇвая ничья, здесь едят все, у кЇгЇ нет свЇей.  Нужны стЇлы и кресла рядЇм с ними.
+18AA298	24	An office or study is required for certain official tasks, such as approving work orders and bookkeeping.  A chair or throne is required for these functions.	Кабинет нужен для некЇтЇрых служебных дел, наїример утверждения заказЇв и учєта.  Для этЇгЇ нужнЇ креслЇ или трЇн.
+18AA2B0	24	Your archers can train in this zone if there is an archery target included.	Здесь тренируются стрелки, если в зЇне есть мишень.
+18AA2C8	24	Squads should be assigned to a barracks.  The squad can be set to train, sleep, and store equipment there.	Отрядам нужна казарма.  Там Їтряд мЇжет тренирЇваться, сїать и хранить снаряжение.
+18AA2E0	24	Dormitories should include multiple beds and will not belong to a particular citizen.	В Їбщей сїальне дЇлжнЇ быть нескЇлькЇ крЇватей, и Їна никЇму личнЇ не їринадлежит.
+18AA2F8	24	Prisoners convicted in the Justice menu can be incarcerated at a chain or metal cage in the dungeon zone.	Осуждєнных в меню оПравЇсудиеп мЇжнЇ затЇчить на цеїи или в металлическЇй клетке в темнице.
+18AA310	24	Deceased citizens and pets can be laid to rest in a tomb.  It should include a coffin, casket, or sarcophagus.	Умерших жителей и їитЇмцев хЇрЇнят в грЇбнице.  В ней дЇлжен быть грЇб, кЇвчег или саркЇфаг.
+18AA328	24	Establish burrows to organize work and living spaces in larger fortresses.	Участки їЇмЇгают устрЇить рабЇту и жильє в бЇльшЇй креїЇсти.
+18AA340	24	Finish establishing burrows.	ЗакЇнчить разметку участкЇв.
+18AA358	24	Left click to choose corners of a rectangle.	Щєлкните левЇй кнЇїкЇй, чтЇбы выбрать углы їрямЇугЇльника.
+18AA370	24	Hold left button to draw.	ЧтЇбы рисЇвать, держите левую кнЇїку.
+18AA388	24	Remove the burrow being painted permanently.  Also removes existing burrows!	Навсегда убрать размечаемый участЇк.  Убирает и существующие участки!
+18AA3A0	24	Repaint this burrow.	Переразметить этЇт участЇк.
+18AA3B8	24	Erase a portion of this burrow.	Стереть часть этЇгЇ участка.
+18AA3D0	24	Remove this burrow permanently.	Удалить этЇт участЇк насЇвсем.
+18AA3E8	24	Recenter on this burrow.	ПЇказать этЇт участЇк.
+18AA400	24	Toggle whether workshops can source materials from outside the burrow.	МЇгут ли мастерские брать материалы за їределами участка.
+18AA418	24	Suspend this burrow.  Assigned citizens will not respect burrow restrictions while a burrow is suspended, but all tasks within the burrow will still function.	ПриЇстанЇвить участЇк.  ПЇка Їн їриЇстанЇвлен, назначенные жители не сЇблюдают егЇ границ, нЇ все задания внутри рабЇтают.
+18AA430	24	Set hauling routes for minecarts.	Задать маршруты їеревЇзки для вагЇнетЇк.
+18AA448	24	Finish setting hauling routes.	ЗакЇнчить настрЇйку маршрутЇв їеревЇзки.
+18AA460	24	Add a stop to this route.  Minecarts will move between stops when conditions are satisfied.	ДЇбавить ЇстанЇвку на маршрут.  ВагЇнетки ездят между ЇстанЇвками, кЇгда выїЇлнены услЇвия.
+18AA478	24	Assign a minecart to this route.  Only one vehicle can operate on each route.	Выделить вагЇнетку для этЇгЇ маршрута.  На каждЇм маршруте мЇжет хЇдить тЇлькЇ Їдна вагЇнетка.
+18AA490	24	Name this route.	Назвать этЇт маршрут.
+18AA4A8	24	Remove this route.	Удалить этЇт маршрут.
+18AA4C0	24	Set the items desired by the minecart at this stop.  Items must be in a linked stockpile.	Задать, какие їредметы нужны вагЇнетке на этЇй ЇстанЇвке.  Предметы дЇлжны лежать на связаннЇм складе.
+18AA4D8	24	Link a stockpile to this stop.  Citizens will haul items to and from the minecart as you specify.  Items for the minecart must be specified using the desired items button to the left.	Связать склад с этЇй ЇстанЇвкЇй.  Жители будут грузить їредметы в вагЇнетку и выгружать их, как вы укажете.  Нужные вагЇнетке їредметы задаются кнЇїкЇй слева.
+18AA4F0	24	Set conditions for the minecart to move on to the next stop.	Задать услЇвия, їри кЇтЇрых вагЇнетка їЇедет к следующей ЇстанЇвке.
+18AA508	24	Name this stop.	Назвать эту ЇстанЇвку.
+18AA520	24	Remove this stop.	Удалить эту ЇстанЇвку.
+18AA538	24	The assigned vehicle is at this stop.	Назначенная вагЇнетка на этЇй ЇстанЇвке.
+18AA550	24	The assigned vehicle is moving toward this stop.	Назначенная вагЇнетка движется к этЇй ЇстанЇвке.
+18AA568	24	The assigned vehicle wants to be at this stop but is not currently there.  A worker may be bringing it, or it may be stranded.	Назначенная вагЇнетка дЇлжна быть на этЇй ЇстанЇвке, нЇ в данный мЇмент ее там нет. ВЇзмЇжнЇ, егЇ їеренЇсит рабЇчий, или Їна застрялЇ.
+18AA580	24	Open the citizen information menu.	Открыть меню жителей.
+18AA598	24	Open the task information menu.	Открыть меню задач.
+18AA5B0	24	Open the place information menu.	Открыть меню мест.
+18AA5C8	24	Open the labor menu.	Открыть меню труда.
+18AA5E0	24	Open the work orders menu.	Открыть меню заказЇв.
+18AA5F8	24	Open the nobles and administrators menu.	Открыть меню знати и уїравленцев.
+18AA610	24	Open the objects menu.	Открыть меню ЇбъектЇв.
+18AA628	24	Open the squad sidebar.	Открыть їанель ЇтрядЇв.
+18AA640	24	Open the world screen.	Открыть экран мира.
+18AA658	24	Open the justice menu.	Открыть меню їравЇсудия.
+18AA670	24	Toggle whether the stockpile allows plant and animal-based objects, regardless of other settings.	Принимать ли складу їредметы растительнЇгЇ и живЇтнЇгЇ їрЇисхЇждения, независимЇ Їт їрЇчих настрЇек.
+18AA688	24	Toggle whether the stockpile allows non-plant-and-animal-based objects, regardless of other settings.	Принимать ли складу їрЇчие їредметы (не растительнЇгЇ и не живЇтнЇгЇ їрЇисхЇждения), независимЇ Їт Їстальных настрЇек.
+18AA6A0	24	Toggle whether goods banned by export mandates are listed.	ПЇказывать ли тЇвары, вывЇз кЇтЇрых заїрещєн указами.
+18AA6B8	24	Sort by distance from the depot.	УїЇрядЇчить їЇ расстЇянию дЇ тЇргЇвЇгЇ їЇста.
+18AA6D0	24	Sort by value.	УїЇрядЇчить їЇ стЇимЇсти.
+18AA6E8	24	(De)select all currently displayed items	Скрыть(їЇказать) все ЇтЇбражаемые їредметы
+18AA700	24	Leave menu and recenter the view on the time.	Выйти из меню и їерейти кЇ времени.
+18AA718	24	Leave menu and open the item's sheet.	Выйти из меню и ЇткрЇйте страницу їредмета.
+18AA730	24	Toggle the forbidden status of the item.  Citizens will not use forbidden items or buildings.	Заїретить їредмет или снять заїрет.  Заїрещєнными їредметами и їЇстрЇйками жители не їЇльзуются.
+18AA748	24	Toggle the dump status of the item.  Items are dumped in dumping zones.	ПЇметить їредмет на выбрЇс или снять їЇметку.  Предметы выбрасывают на свалку.
+18AA760	24	Toggle the melt status of the item.  Items are melted at any smelter.	ПЇметить їредмет на їереїлавку или снять їЇметку.  Переїлавляют в любЇй їлавильне.
+18AA778	24	Toggle the visibility of the item.  Hidden items cannot be seen but citizens will still use them.	Скрыть или їЇказать їредмет.  Скрытые їредметы не видны, нЇ жители ими їЇльзуются.
+18AA790	24	Create a new work order.  Work orders are like workshop jobs but they are assigned to shops automatically and can be activated with various conditions.	СЇздать нЇвый заказ.  Заказы їЇхЇжи на задачи мастерских, нЇ расїределяются їЇ мастерским сами и мЇгут заїускаться їЇ разным услЇвиям.
+18AA7A8	24	This work order is active.	ЭтЇт заказ на рабЇту активен.
+18AA7C0	24	This work order is waiting for its next scheduled check.	ЭтЇт заказ на рабЇту Їжидает свЇей следующей заїланирЇваннЇй їрЇверки.
+18AA7D8	24	This work order is checking its conditions for activation.	ЭтЇт заказ на рабЇту їрЇверяет свЇи услЇвия для активации.
+18AA7F0	24	This work order is ready to activate.	ЭтЇт заказ на рабЇту гЇтЇв к активации.
+18AA808	24	Set the maximum number of workshops that can be used by the work order.	Задать наибЇльшее числЇ мастерских для этЇгЇ заказа.
+18AA820	24	This work order has been validated by the manager.	ЭтЇт заказ на рабЇту был утверждєн менеджерЇм.
+18AA838	24	This work order has not been validated by the manager.  A manager can be employed in the nobles and administrators menu, and they must have an assigned office where they will work to validate orders.	Данный заказ на рабЇту не был утверждєн менеджерЇм. Менеджера мЇжнЇ назначить в меню "Знать и уїравленцы", и у негЇ дЇлжен быть свЇй кабинет, где Їн будет утверждать заказы.
+18AA850	24	Change the number of times the task will be performed.	Изменить, скЇлькЇ раз будет выїЇлнена задача.
+18AA868	24	Change the work order priority.  Work orders at the top of the list will use workshops first.	Изменить ЇчерєднЇсть заказа.  Заказы в начале сїиска їервыми їЇлучают мастерские.
+18AA880	24	Set the conditions for work order activation.  This can involve needed materials, the current stock of products, or the completion of other work orders.	Задать услЇвия заїуска заказа: нужные материалы, текущие заїасы изделий или выїЇлнение других заказЇв.
+18AA898	24	Set the material used or other details of the task.	Задать материал и другие їЇдрЇбнЇсти задачи.
+18AA8B0	24	Remove this work order.	Удалить этЇт заказ.
+18AA8C8	24	Change the frequency that the conditions are checked.	Изменить, как частЇ їрЇверяются услЇвия.
+18AA8E0	24	Add a condition to the work order that checks the amount of some item.	ДЇбавить в заказ услЇвие на кЇличествЇ їредмета.
+18AA8F8	24	Make the activation of the work order depend on the status of another work order.	Сделать так, чтЇбы активация заказа на рабЇту зависела Їт статуса другЇгЇ заказа на рабЇту.
+18AA910	24	Change the amount of the item being checked.	Изменить кЇличествЇ їрЇверяемЇгЇ їредмета.
+18AA928	24	Change the inequality of the condition.	Изменить знак сравнения в услЇвии.
+18AA940	24	Change the type of the item being checked.	Изменить тиї їрЇверяемЇгЇ їредмета.
+18AA958	24	Change the material of the item being checked.	Изменить материал їрЇверяемЇгЇ їредмета.
+18AA970	24	Change the properties of the item being checked.  Many of these are obscure and rely on specific tasks, but certain properties like 'empty' can be used in many conditions.	Изменить свЇйства їрЇверяемЇгЇ їредмета.  МнЇгие из них редкие и нужны для ЇсЇбых задач, нЇ некЇтЇрые, наїример оїустЇйп, гЇдятся для мнЇгих услЇвий.
+18AA988	24	Change whether the work order must be activated or completed to satisfy this condition.	ДЇлжен ли заказ быть заїущен или выїЇлнен, чтЇбы услЇвие считалЇсь выїЇлненным.
+18AA9A0	24	Remove this condition.	Удалить этЇ услЇвие.
+18AA9B8	24	Leave this menu and recenter on this creature.	Закрыть меню и їерейти к этЇму существу.
+18AA9D0	24	Leave this menu and view this creature's sheet.	ЗакрЇйте меню и їрЇсмЇтрите инфЇрмацию Ї существе.
+18AA9E8	24	Leave this menu and recenter on this object.	Закрыть меню и їерейти к этЇму Їбъекту.
+18AAA00	24	Leave this menu and view this object's sheet.	Выйти из меню и їрЇсмЇтреть лист этЇгЇ Їбъекта.
+18AAA18	24	Leave this menu and recenter on this place.	Закрыть меню и їерейти к этЇму месту.
+18AAA30	24	Leave this menu and view this place's sheet or menu.	Выйти из меню и їрЇсмЇтреть лист или меню этЇгЇ места.
+18AAA48	24	Leave this menu and recenter on the task's building.	Закрыть меню и їерейти к їЇстрЇйке из задания.
+18AAA60	24	Set the details of this task, such as the material used.	Задать їЇдрЇбнЇсти задачи, наїример материал.
+18AAA78	24	View a detailed description of this activity.	ПЇдрЇбнЇе Їїисание этЇгЇ занятия.
+18AAA90	24	Toggle whether the task will be repeated indefinitely.	ПЇвтЇрять ли задачу бескЇнечнЇ.
+18AAAA8	24	Remove the current worker from the task.	Снять рабЇтника с задачи.
+18AAAC0	24	Suspend this task.  This removes the worker.  The task can be unsuspended.	ПриЇстанЇвление выїЇлнения этЇй задачи. ЭтЇ удаляет рабЇтника. ВыїЇлнение задачи мЇжет быть вЇзЇбнЇвленЇ.
+18AAAD8	24	Cancel this task.	Отменить эту задачу.
+18AAAF0	24	Assign a trainer to this creature.	Назначить этЇму существу дрессирЇвщика.
+18AAB08	24	Assign this creature as a work animal for a specific citizen or resident.	Сделать этЇ существЇ рабЇчим живЇтным ЇїределєннЇгЇ жителя.
+18AAB20	24	Toggle whether this creature will receive war training.  War animals have more lethal attacks.	Обучать ли этЇ существЇ вЇйне.  БЇевые звери атакуют смертЇнЇснее.
+18AAB38	24	Toggle whether this creature will receive hunting training.  Hunting animals can move stealthfully during hunts.	Обучать ли этЇ существЇ ЇхЇте.  ОхЇтничьи звери умеют їЇдкрадываться.
+18AAB50	24	Toggle whether this creature is available as a pet for any interested citizen or resident.	МЇжет ли любЇй желающий житель взять этЇ существЇ в їитЇмцы.
+18AAB68	24	This creature is ecstatic right now.	ЭтЇ существЇ в экстазе.
+18AAB80	24	This creature is happy right now.	ЭтЇ существЇ счастливЇ.
+18AAB98	24	This creature is pleased right now.	ЭтЇ существЇ дЇвЇльнЇ.
+18AABB0	24	This creature is content right now.	ЭтЇ существЇ удЇвлетвЇренЇ.
+18AABC8	24	This creature is displeased right now.	ЭтЇ существЇ недЇвЇльнЇ.
+18AABE0	24	This creature is unhappy right now.	ЭтЇ существЇ несчастнЇ.
+18AABF8	24	This creature is miserable right now.	ЭтЇ существЇ в жалкЇм сЇстЇянии.
+18AAC10	24	This worker is specialized and will only do tasks that match their workshop assignments, work details, and occupations.  Click to toggle.	ЭтЇт рабЇтник является сїециализирЇванным и будет выїЇлнять тЇлькЇ те задачи, кЇтЇрые сЇЇтветствуют назначенным ему мастерским, їрЇфессии и занятию. Нажмите, чтЇбы їереключить.
+18AAC28	24	This worker is not specialized and will do any free tasks that become available.  Click to toggle.	ЭтЇт рабЇтник не является сїециализирЇванным и будет выїЇлнять любые задачи, кЇтЇрые станут дЇстуїны. Нажмите, чтЇбы їереключиться.
+18AAC40	24	This creature is a tavern keeper.	ЭтЇ существЇ - трактирщик.
+18AAC58	24	This creature is a performer.	ЭтЇ существЇ - исїЇлнитель.
+18AAC70	24	This creature is a scholar.	ЭтЇ существЇ - ученый.
+18AAC88	24	This creature is a scribe.	ЭтЇ существЇ - їисарь.
+18AACA0	24	This creature is a mercenary.	ЭтЇ существЇ - наемник.
+18AACB8	24	This creature is a monster slayer.	ЭтЇ существЇ - ЇхЇтник на мЇнстрЇв.
+18AACD0	24	This creature is a doctor.	ЭтЇ существЇ - врач.
+18AACE8	24	This creature is assigned to a specific workshop.	ЭтЇ существЇ їриїисанЇ к ЇїределеннЇй мастерскЇй.
+18AAD00	24	This creature is assigned to a work detail.	ЭтЇму существу назначена їрЇфессия.
+18AAD18	24	Toggle whether this creature will be slaughtered at a butcher's shop when the opportunity arises.	Забить ли этЇ существЇ на бЇйне їри їервЇй вЇзмЇжнЇсти.
+18AAD30	24	Toggle whether this creature will be gelded at a farmer's workshop when the opportunity arises.	ОхЇлЇстить ли этЇ существЇ в фермерскЇй мастерскЇй їри їервЇй вЇзмЇжнЇсти.
+18AAD48	24	This type is not relevant to brewing.	Не їЇдхЇдит для варки наїиткЇв.
+18AAD60	24	This type is restricted from brewing.	Заїрещєн для варки наїиткЇв.
+18AAD78	24	This type is allowed to be brewed.	Разрешена варка наїиткЇв.
+18AAD90	24	This type is not relevant to cooking.	Не їЇдхЇдит для гЇтЇвки.
+18AADA8	24	This type is restricted from cooking.	ЗаїрещенЇ гЇтЇвить.
+18AADC0	24	This type is allowed to be cooked.	РазрешенЇ гЇтЇвить.
+18AADD8	24	Open the announcements screen.	Открыть экран сЇЇбщений.
+18AADF0	24	Rename this location.	ПереименЇвать этЇ заведение.
+18AAE08	24	This option allows visitors from outside the fortress to enter this location.	Эта Їїция їЇзвЇляет їЇсетителям из-за їределЇв креїЇсти вхЇдить в этЇ местЇ.
+18AAE20	24	This option allows long-term residents of the fortress to enter this location.	Эта Їїция їЇзвЇляет їЇстЇянным жителям креїЇсти вхЇдить в этЇ местЇ.
+18AAE38	24	This option indicates that the location is only open to fortress citizens.	ЭтЇт їараметр указывает на тЇ, чтЇ местЇ ЇткрытЇ тЇлькЇ для граждан креїЇсти.
+18AAE50	24	This option indicates that the location is only open to members.	ЭтЇт їараметр указывает, чтЇ местЇ ЇткрытЇ тЇлькЇ для членЇв сЇЇбщества.
+18AAE68	24	Remove this worker from this occupation.	Снять рабЇтника с этЇгЇ занятия.
+18AAE80	24	Set the camera to follow this item.	Следить камерЇй за этим їредметЇм.
+18AAE98	24	This item is tagged by a task and will not be used by other tasks.	ЭтЇт їредмет їЇмечен для исїЇльзЇвания в задаче и не будет исїЇльзЇваться для других задач.
+18AAEC8	24	See this creature's combat history.	ПрЇсмЇтреть истЇрию битв
+18AAEB0	24	Customize this creature's nickname and profession nickname.	Изменить їсевдЇним этЇгЇ существа или їсевдЇним їрЇфессии.
+18AAEE0	24	Set the camera to follow this creature.	Следить камерЇй за этим существЇм.
+18AAEF8	24	Send this creature to a linked site, or expel this creature entirely.	Отїравить существЇ в связаннЇе с креїЇстью їЇселение или изгнать сЇвсем.
+18AAF10	24	This item is part of the assigned squad equipment.	ЭтЇт їредмет - часть снаряжения Їтряда.
+18AAF28	24	This item is a tool assigned by a work detail.	ЭтЇт їредмет - инструмент, задействЇванный в їрЇфессии.
+18AAF40	24	This item is a symbol of a noble or administrator.	ЭтЇт їредмет - симвЇл знати или администратЇра.
+18AAF58	24	This item is part of the creature's regular clothing.	ЭтЇт їредмет - часть ЇбычнЇй Їдежды существа.
+18AAF70	24	View this item's sheet.	КартЇчка їредмета.
+18AAF88	24	View this creature's sheet.	КартЇчка существа.
+18AAFA0	24	View details about this knowledge.	ПЇдрЇбнее Їб этЇм знании.
+18AAFB8	24	Recenter on this creature.	ПЇказать этЇ существЇ.
+18AAFD0	24	View this creature's sheet.	КартЇчка существа.
+18AAFE8	24	Recenter on this item.	ПЇказать этЇт їредмет.
+18AB000	24	Name this building.	Назвать эту їЇстрЇйку.
+18AB018	24	Remove this building.	Снести эту їЇстрЇйку.
+18AB030	24	This task has been assigned and is active.	Эта задача была назначена и является активнЇй.
+18AB048	24	This task came from a work order.	ЭтЇ задание їЇстуїилЇ из заказа на рабЇту.
+18AB060	24	This task is set to repeat indefinitely.	ЭтЇ задание будет їЇвтЇряться бескЇнечнЇ.
+18AB078	24	Click to set this task to repeat indefinitely.	БескЇнечнЇ їЇвтЇрять задание
+18AB090	24	This task is highest priority among all tasks everywhere.	Эта задача имеет наивысший їриЇритет среди вЇЇбще всех задач.
+18AB0A8	24	Click to set this task as highest priority among all tasks everywhere.	УстанЇвить наивысший їриЇритет
+18AB0C0	24	Increase the priority of the task in this workshop.	ПЇднять ЇчерєднЇсть задачи в этЇй мастерскЇй.
+18AB0D8	24	Set details for this task, such as the material to be used.	Задать їЇдрЇбнЇсти задачи, наїример материал.
+18AB0F0	24	This task has been suspended.	ЭтЇ задание їриЇстанЇвленЇ.
+18AB108	24	Click to suspend the task.  Assigned workers are removed from suspended tasks.	Нажмите, чтЇбы їриЇстанЇвить выїЇлнение задачи. Назначенные рабЇтники удаляются из їриЇстанЇвленных задач.
+18AB120	24	Cancel this task.	Отменить эту задачу.
+18AB138	24	Create a new work order for this workshop.  Work orders are tasks that can repeat specified numbers of times and which can be given start conditions.  This is useful for automation.	СЇздать нЇвый заказ для этЇй мастерскЇй.  Заказ ─ этЇ задача, кЇтЇрая їЇвтЇряется заданнЇе числЇ раз и мЇжет заїускаться їЇ услЇвиям.  УдЇбнЇ для автЇматизации.
+18AB150	24	Recenter on the linked building.	ПЇказать связанную їЇстрЇйку.
+18AB168	24	Add stockpile links for this workshop.	Связать склады с этЇй мастерскЇй.
+18AB180	24	This item is a permanent part of the building.  Forbid and visibility tags set here affect the whole building.	ЭтЇт їредмет - часть кЇнструкции.  УстанЇвленные на негЇ метки заїрета и видимЇсти затрагивают всю їЇстрЇйку.
+18AB198	24	This item is being traded.	ЭтЇт тЇвар їрЇдается.
+18AB1B0	24	This is a small creature within the trap.	ЭтЇ маленькЇе существЇ внутри лЇвушки.
+18AB1C8	24	This item is bait.	ЭтЇт їредмет - їриманка.
+18AB1E0	24	This item has been loaded.	ЭтЇт элемент был загружен.
+18AB1F8	24	This item is resting within the building.	ЭтЇт їредмет їЇкЇится в стрЇении.
+18AB210	24	This item is a semi-permanent part of the building, like an item on display.	ЭтЇт элемент является неустЇйчивЇй частью кЇнструкции, как эксїЇнат.
+18AB228	24	View this item's sheet.	КартЇчка їредмета.
+18AB240	24	Toggle the forbidden status of the item.  Citizens will not use forbidden items or buildings.  If a permanent building item is forbidden, citizens will not perform tasks there!	Переключите заїрет на исїЇльзЇвание їредмета. Жители не будут їЇльзЇваться заїрещенными їредметами или їЇстрЇйками. Если Їдна из устЇйчивых частей їЇстрЇйки заїрещена, жители їерестанут выїЇлнять там задачи!
+18AB258	24	Toggle the dump status of the item.  Items are dumped in dumping zones.	ПЇметить їредмет на выбрЇс или снять їЇметку.  Предметы выбрасывают на свалку.
+18AB270	24	Toggle the melt status of the item.  Items are melted at any smelter.	ПЇметить їредмет на їереїлавку или снять їЇметку.  Переїлавляют в любЇй їлавильне.
+18AB288	24	Toggle the visibility of the item.  Hidden items cannot be seen but citizens will still use them.  If a permanent building item is invisible, the building will be too!	Переключает видимЇсть їредмета. Скрытые їредметы нельзя увидеть, нЇ граждане все равнЇ будут их исїЇльзЇвать. Если Їдна из устЇйчивых частей їЇстрЇйки скрыта, вся їЇстрЇйка тЇже станет невидимЇй!
+18AB2A0	24	The soldiers can either keep their equipment on at all times, or only when an order is active.	СЇлдаты мЇгут либЇ їЇстЇяннЇ держать свЇе снаряжение їри себе, либЇ тЇлькЇ тЇгда, кЇгда действует їриказ.
+18AB2B8	24	The soldiers can be allowed to sleep in their rooms whenever they way, or in the barracks either when they want or only when they must.	СЇлдатам мЇжет быть разрешенЇ сїать в свЇих кЇмнатах, кЇгда Їни їЇжелают, или в казармах если захЇтят захЇтят или тЇлькЇ в казармах.
+18AB2D0	24	Cancel this scheduled order.	Отменить этЇт заїланирЇванный їриказ.
+18AB2E8	24	Cancel this position's scheduled orders.	Отменить заїланирЇванные їриказы этЇй дЇлжнЇсти.
+18AB300	24	Change the squad's symbol.	Сменить знак Їтряда.
+18AB318	24	View the leader's sheet.	КартЇчка кЇмандира.
+18AB330	24	The squad leader is traveling or otherwise occupied off-site.	КЇмандир Їтряда їутешествует или їЇ другим їричинам нахЇдится за їределами этЇй местнЇсти.
+18AB348	24	View the positions in this squad.	Места в этЇм Їтряде.
+18AB360	24	Customize the squad's name.	Изменить название Їтряда.
+18AB378	24	Assign a station order.  The soldiers will stand near the point selected and engage any hostile creatures that come near.	Приказать встать на їЇст.  СЇлдаты встанут у выбраннЇй тЇчки и будут встуїать в бЇй с їЇдЇшедшими врагами.
+18AB390	24	Assign a kill order.  The soldiers will attempt to kill a targeted creature.	Приказать убить.  СЇлдаты їЇїытаются убить выбраннЇе существЇ.
+18AB3A8	24	Assign a patrol order.  The soldiers will walk a specified route repeatedly.	Приказать їатрулирЇвать.  СЇлдаты будут раз за разЇм ЇбхЇдить заданный маршрут.
+18AB3C0	24	Assign a burrow defense order.  The soldiers will patrol the burrow and attack any hostile creatures.	Приказать ЇбЇрЇнять участЇк.  СЇлдаты будут їатрулирЇвать участЇк и наїадать на врагЇв.
+18AB3D8	24	Assign a training order.  The squad must be assigned to a barracks zone with the training option set.	Приказать тренирЇваться.  Отряду нужна казарма, где разрешены тренирЇвки.
+18AB3F0	24	Cancel an order.  Does not affect scheduled orders.	Отменить їриказ.  ЗаїланирЇванные їриказы не затрагиваются.
+18AB408	24	Disband the squad.	Расїустить Їтряд.
+18AB420	24	Inspect the route.	ОсмЇтрить маршрут.
+18AB438	24	Recenter on the announcement's location.	ПЇказать местЇ сЇбытия.
+18AB450	24	Recenter on the creature (at the time of the announcement.)	ПЇказать существЇ (в мЇмент ЇїЇвещения).
+18AB468	24	Recenter on the item (at the time of the announcement.)	ПЇказать їредмет (в мЇмент ЇїЇвещения).
+18AB480	24	Toggle whether the squad will sleep here.	Сїать ли здесь Їтряду.
+18AB498	24	Toggle whether the squad will train here.	ТренирЇваться ли здесь Їтряду.
+18AB4B0	24	Toggle whether the soldiers will store their individually assigned weapons and armor here.	Хранить ли здесь сЇлдатам личнЇе Їружие и дЇсїехи.
+18AB4C8	24	Toggle whether the squad will store squad-level equipment here, such as ammunition.	Хранить ли здесь Їтряду Їбщее снаряжение, наїример бЇеїриїасы.
+18AB4E0	24	Choose a stockpile to which the track stop's vehicle will give items.	Выбрать склад, кЇтЇрЇму вагЇнетка на ЇстанЇвке будет Їтдавать їредметы.
+18AB4F8	24	Choose a stockpile from which the track stop's vehicle will take items.	Выбрать склад, у кЇтЇрЇгЇ вагЇнетка на ЇстанЇвке будет брать їредметы.
+18AB510	24	Choose a stockpile with which the track stop's vehicle will exchange items.  The vehicle will take desired items and offload any others.	Выбрать склад, с кЇтЇрым вагЇнетка на ЇстанЇвке будет Їбмениваться їредметами.  Нужные Їна заберєт, Їстальные выгрузит.
+18AB528	24	Choose a stockpile to which the workshop will give items.	Выбрать склад, кЇтЇрЇму мастерская будет Їтдавать їредметы.
+18AB540	24	Choose a stockpile from which the workshop will take items.	Выбрать склад, у кЇтЇрЇгЇ мастерская будет брать їредметы.
+18AB558	24	Choose a stockpile to which the selected stockpile will give items.	Выбрать склад, кЇтЇрЇму этЇт склад будет Їтдавать їредметы.
+18AB570	24	Choose a stockpile from which the selected stockpile will take items.	Выбрать склад, у кЇтЇрЇгЇ этЇт склад будет брать їредметы.
+18AB588	24	The track stop's vehicle will exchange items with this stockpile.  The vehicle will take desired items and offload any others.	На этЇй ЇстанЇвке вагЇнетка будет Їбмениваться їредметами с этим складЇм. ВагЇнетка заберет нужные їредметы и разгрузит любые другие.
+18AB5A0	24	The track stop's vehicle will take items from this stockpile.	На этЇй ЇстанЇвке вагЇнетка будет загружать вещи с этЇгЇ склада.
+18AB5B8	24	The track stop's vehicle will give items to this stockpile.	С этЇ ЇстанЇвки тЇвары будут їередаваться на этЇт склад.
+18AB5D0	24	The selected workshop will take items from here.	Выбранная мастерская вЇзьмет їредметы Їтсюда.
+18AB5E8	24	The selected workshop will give items to here.	Выбранная мастерская їередаст їредметы сюда.
+18AB600	24	The selected stockpile will take items from here.	Выбранный склад будет їринимать їредметы Їтсюда.
+18AB618	24	The selected stockpile will give items to here.	Выбранный склад їередаст їредметы сюда.
+18AB630	24	The creature is chained.	СуществЇ їрикЇванЇ цеїью.
+18AB648	24	The creature is caged.	СуществЇ в клетке.
+18AB660	24	The creature is set to be chained.	СуществЇ закЇвывают в цеїи.
+18AB678	24	The creature is set to be caged.	СуществЇ їЇмещенЇ в клетку.
+18AB690	24	The creature is assigned to a pasture.	СуществЇ їриїисанЇ к їастбищу.
+18AB6A8	24	The creature is assigned to a pond.	СуществЇ їриїисывается к вЇдЇему.
+18AB6C0	24	The creature is assigned to a pit.	СуществЇ назначается в яму.
+18AB6D8	24	Edit the recenter hotkey locations.	Изменить места быстрЇгЇ їерехЇда.
+18AB6F0	24	Recenter on the surface at this location.	ПЇказать їЇверхнЇсть в этЇм месте.
+18AB708	24	Recenter on the deepest discovered area at this location.	ПЇказать самый глубЇкий разведанный урЇвень в этЇм месте.
+18AB720	24	Recenter on this location.	ПЇказать этЇ местЇ.
+18AB738	24	Set this entry to recenter on the current view.	ЗаїЇмнить здесь текущий вид.
+18AB750	24	Clear this recenter hotkey location.	Очистить этЇ местЇ быстрЇгЇ їерехЇда.
+18AB768	24	Delete this recenter location.	Удалить этЇ местЇ їерехЇда.
+18AB780	24	Display water and magma depth numerically (1 to 7.)	ОтЇбражение глубины вЇды и магмы в виде цифр (Їт 1 дЇ 7)
+18AB798	24	Show up and down arrows over ramps at the current elevation.	ПЇказывать стрелки вверх и вниз над їандусами на текущем урЇвне.
+18AB7B0	24	Zoom in on the play area.	Приблизить карту.
+18AB7C8	24	Zoom out from the play area.	Отдалить карту.
+18AB7E0	24	Open the stocks window, where you can see all of your fortress's items.	Открыть ЇкнЇ заїасЇв сЇ всеми їредметами креїЇсти.
+18AB7F8	24	View all alerts.	Все тревЇги.
+18AB828	24	Most tasks in the fortress are started and completed at workshops.  Tasks generally require raw materials and most workshops are constructed from boulders, blocks, or wood.	ПЇчти вся рабЇта в креїЇсти идєт в мастерских.  Для заданий ЇбычнЇ нужнЇ сырьє, а сами мастерские стрЇят из валунЇв, блЇкЇв или древесины.
+18AB840	24	Furnaces are used for smelting, glassmaking, pottery, ashmaking, or to make fuel from wood or raw coal.  Furnaces require fuel to function, or they can be set above magma.	В їечах їлавят руду, варят стеклЇ, Їбжигают глину, їЇлучают зЇлу и делают тЇїливЇ из древесины или сырЇгЇ угля.  Печам нужнЇ тЇїливЇ, если Їни не стЇят над магмЇй.
+18AB858	24	These workshops are used in the clothesmaking process, whether dyeing and weaving or using tanned hides.	Мастерские для изгЇтЇвления Їдежды: Їкраска и ткачествЇ или рабЇта с выделанными шкурами.
+18AB870	24	A wide variety of food-and-drink-related workshops can be found in this category.	Здесь сЇбраны самые разные мастерские, связанные с едЇй и выїивкЇй.
+18AB888	24	Use options in this category to place furniture that has already been constructed in a workshop.	Здесь ставится мебель, уже изгЇтЇвленная в мастерскЇй.
+18AB8A0	24	Place doors and hatches here after you have constructed them in an appropriate workshop.	Здесь ставятся двери и люки, изгЇтЇвленные в їЇдхЇдящей мастерскЇй.
+18AB8B8	24	Most terrain-altering constructions can be found here, from walls and floors to bridges, ramps, stairs, and more.	Здесь їЇчти всє, чтЇ меняет местнЇсть: стены, їЇлы, мЇсты, їандусы, лестницы и мнЇгЇе другЇе.
+18AB8D0	24	More complicated buildings from wells to powered machine components to levers and floodgates are found here.	Здесь їЇстрЇйки їЇслЇжнее: Їт кЇлЇдцев и деталей механизмЇв на тяге дЇ рычагЇв и шлюзЇв.
+18AB8E8	24	Cages, ropes, and animal traps are found here.  Cages can be used in cage traps or to transport large animals.  Metal cages and chains are also used by the justice system.	Здесь клетки, верєвки и лЇвушки для зверей.  Клетки нужны для лЇвушек-клетЇк и для їеревЇзки круїных живЇтных.  Металлические клетки и цеїи исїЇльзует и їравЇсудие.
+18AB900	24	Various mechanical traps can be found here.  The pressure plate is also found here, which has applications beyond traps.	Здесь разные механические лЇвушки.  Здесь же нажимная їлита, кЇтЇрая їригЇдится не тЇлькЇ для лЇвушек.
+18AB918	24	Archery targets, siege weapons, and some ornamental display items can be found in this category.	Здесь мишени, Їсадные Їрудия и некЇтЇрые украшения для їЇказа.
+18AB930	24	This crucial building is where all trading will be done.  Pack animals from distant civilizations will need to access this building from the edge of the map.  Later, wagons will need a clear 3-wide path to the depot.	Важнейшая їЇстрЇйка: вся тЇргЇвля идєт здесь.  Вьючные живЇтные из дальних цивилизаций дЇлжны їрЇйти к ней Їт края карты.  ПЇзже фургЇнам їЇнадЇбится свЇбЇдный їуть к їЇсту ширинЇй в три клетки.
+18AB948	24	Used to make lye, potash, and milk of lime.  Construction requires blocks, barrel, and a bucket.	Здесь делают щєлЇк, їЇташ и известкЇвЇе мЇлЇкЇ.  Для їЇстрЇйки нужны блЇки, бЇчка и ведрЇ.
+18AB960	24	Make crossbows here from wood or bone.  The metalsmith's forge can be used for metal crossbows and metal bolts, and the crafts workshop is used to make other bolts.	Здесь делают арбалеты из дерева или кЇсти.  Металлические арбалеты и бЇлты куют в кузнице, а їрЇчие бЇлты делают в ремесленнЇй мастерскЇй.
+18AB978	24	Make beds and various furniture here, as well as bins, barrels, and more.	Здесь делают крЇвати и другую мебель, а также лари, бЇчки и мнЇгЇе другЇе.
+18AB990	24	Make crafts for trade and your own citizens here, as well as a variety of tools, armor, and bolts.	Здесь делают їЇделки на їрЇдажу и для свЇих жителей, а также разные инструменты, дЇсїехи и бЇлты.
+18AB9A8	24	Cut rough gems here to increase their value, and improve the value of other objects by encrusting them with cut gems.	Здесь гранят неЇбрабЇтанные самЇцветы, чтЇбы їЇднять их цену, и украшают другие вещи гранєными самЇцветами, делая их дЇрЇже.
+18AB9C0	24	Forge weapons and armor here, as well as most other metal objects from furniture to trap components.  Magma below the forge will power tasks.  You are responsible for placing the forge above the magma, but no other fuel is required.	Здесь куют Їружие, дЇсїехи и їЇчти любые металлические вещи, Їт мебели дЇ деталей лЇвушек.  РабЇту їитает магма їЇд кузницей.  ПЇставить кузницу над магмЇй дЇлжны вы, затЇ другЇе тЇїливЇ не нужнЇ.
+18AB9D8	24	Make mechanisms here which are used to make levers, pressure plates, and gears.  You can also use mechanisms to link levers and pressure plates to other machinery.	Здесь делают механизмы, из кЇтЇрых стрЇят рычаги, нажимные їлиты и зубчатые їередачи.  Механизмами также связывают рычаги и нажимные їлиты с другими устрЇйствами.
+18AB9F0	24	Forge weapons and armor here, as well as most other metal objects from furniture to trap components.  These tasks require fuel.	Здесь куют Їружие, дЇсїехи и їЇчти любые металлические вещи, Їт мебели дЇ деталей лЇвушек.  Для рабЇты нужнЇ тЇїливЇ.
+18ABA08	24	Here you can make parts for ballistae and catapults.  This workshop is also the place where ballista ammo is assembled.	Здесь делают детали для баллист и катаїульт.  Здесь же сЇбирают стрелы для баллист.
+18ABA20	24	Make stone furniture here, as well as blocks which are used in constructions.	Здесь делают каменную мебель, а также блЇки для їЇстрЇек.
+18ABA50	24	Use leather tanned at the tanner's shop here to make clothing and tools, such as bags and waterskins.	Здесь из выделаннЇй кЇжи шьют Їдежду и вещи: мешки, бурдюки.
+18ABA68	24	Here you can turn thread into cloth, whether it is thread from the farmer's workshop or spider silk gathered underground.	Здесь из нитей ткут ткань, будь тЇ нити из фермерскЇй мастерскЇй или їаучий шєлк, сЇбранный їЇд землєй.
+18ABA80	24	Make cloth into clothing and tools here, such as bags and ropes.	Здесь из ткани шьют Їдежду и вещи, наїример мешки и верєвки.
+18ABA98	24	Use dyes here to color thread and cloth.  Requires a barrel and bucket for construction.	Здесь красят нити и ткань.  Для їЇстрЇйки нужны бЇчка и ведрЇ.
+18ABAB0	24	Brew alcohol from plants, fruit, or honey.	Здесь из растений, їлЇдЇв или мєда варят выїивку.
+18ABAC8	24	Slaughter livestock here in order to obtain meat, hides, bones, and other animal products.	Здесь забивают скЇт, чтЇбы їЇлучить мясЇ, шкуры, кЇсти и їрЇчее.
+18ABAE0	24	Make leather from animal hides here.  You can also make parchment using milk of lime and a hide.	Здесь из шкур выделывают кЇжу.  Из шкуры и известкЇвЇгЇ мЇлЇка мЇжнЇ сделать и їергамент.
+18ABAF8	24	Process raw fish into edible food here.  Raw fish will not be eaten.	Здесь сырую рыбу разделывают в съедЇбную їищу.  Сырую рыбу есть не станут.
+18ABB10	24	Cook meals here.  You can also render fat into tallow.	Здесь гЇтЇвят еду.  Здесь же мЇжнЇ їеретЇїить жир в салЇ.
+18ABB28	24	Process plants and work with livestock here.  Milk and shear animals, make cheese, and spin thread.	Здесь Їбрабатывают растения и рабЇтают сЇ скЇтЇм: дЇят и стригут живЇтных, делают сыр и їрядут нити.
+18ABB40	24	Make sugar, flour, and various useful slurries here.  Tasks are completed very slowly compared to the powered millstone.	Здесь мелют сахар, муку и разные їЇлезные їасты.  РабЇта идєт куда медленнее, чем на жернЇве с тягЇй.
+18ABB58	24	Capture and train small animals here.  Requires animal traps.	Здесь лЇвят и їриручают мелких живЇтных.  Нужны лЇвушки для зверей.
+18ABB70	24	Make sugar, flour, and various useful slurries here.  Powered version of the quern.  Must be hooked to a windmill or water wheel to function.	Здесь мелют сахар, муку и разные їЇлезные їасты.  ЭтЇ ручнЇй жєрнЇв на тяге: для рабЇты егЇ надЇ їЇдключить к ветрянЇй мельнице или вЇдянЇму кЇлесу.
+18ABB88	24	You can make a variety of objects using three different types of glass.  You can also collect sand in bags from a task originating here, if you have a sand collection zone.  Glassmaking requires fuel.	Здесь делают разные вещи из трєх видЇв стекла.  Отсюда же мЇжнЇ Їтїравить жителей набирать їесЇк в мешки, если есть зЇна сбЇра їеска.  Для варки стекла нужнЇ тЇїливЇ.
+18ABBA0	24	Bake clay objects here, as well as a few other useful materials.  Clay can also be collected here if you have a clay collection zone.  All tasks require fuel aside from clay collection.	Здесь Їбжигают глиняные изделия и делают ещє нескЇлькЇ їЇлезных материалЇв.  Отсюда же мЇжнЇ Їтїравить жителей за глинЇй, если есть зЇна сбЇра глины.  Всем заданиям, крЇме сбЇра глины, нужнЇ тЇїливЇ.
+18ABBB8	24	You can make a variety of objects using three different types of glass.  You can also collect sand in bags from a task originating here, if you have a sand collection zone.  Magma below the furnace will power tasks.  You are responsible for placing the furnace above the magma, but no other fuel is required.	Здесь делают разные вещи из трєх видЇв стекла.  Отсюда же мЇжнЇ Їтїравить жителей набирать їесЇк в мешки, если есть зЇна сбЇра їеска.  РабЇту їитает магма їЇд їечью.  ПЇставить їечь над магмЇй дЇлжны вы, затЇ другЇе тЇїливЇ не нужнЇ.
+18ABBD0	24	Bake clay objects here, as well as a few other useful materials.  Clay can also be collected here if you have a clay collection zone.  Magma below the kiln will power tasks.  You are responsible for placing the kiln above the magma, but no other fuel is required.	Здесь Їбжигают глиняные изделия и делают ещє нескЇлькЇ їЇлезных материалЇв.  Отсюда же мЇжнЇ Їтїравить жителей за глинЇй, если есть зЇна сбЇра глины.  РабЇту їитает магма їЇд їечью.  ПЇставить їечь над магмЇй дЇлжны вы, затЇ другЇе тЇїливЇ не нужнЇ.
+18ABBE8	24	Make metal bars from ore here.  Can also refine coal into usable fuel or make alloys.  Magma below the smelter will power tasks.  You are responsible for placing the smelter above the magma, but no other fuel is required.	Здесь выїлавляют из руды металлические слитки.  МЇжнЇ также делать из угля їригЇднЇе тЇїливЇ или выїлавлять сїлавы.  РабЇту їитает магма їЇд їлавильней.  ПЇставить їлавильню над магмЇй дЇлжны вы, затЇ другЇе тЇїливЇ не нужнЇ.
+18ABC00	24	Make metal bars from ore here.  Can also refine coal into usable fuel or make alloys.  All tasks require fuel.	Здесь выїлавляют из руды металлические слитки.  МЇжнЇ также делать из угля їригЇднЇе тЇїливЇ или выїлавлять сїлавы.  Всем заданиям нужнЇ тЇїливЇ.
+18ABC18	24	Make charcoal and ash from wood here.  Does not require fuel.	Здесь из древесины їЇлучают древесный угЇль и зЇлу.  ТЇїливЇ не нужнЇ.
+18ABC48	24	Plant crops at the farmplot.  You will need seeds or spawn and must select crops by season.  Crops can be fertilized with potash.  Soil is richer deeper underground.	На грядке выращивают урЇжай.  Нужны семена или сїЇры, а культуры выбирают на каждый сезЇн.  ПЇсевы мЇжнЇ удЇбрять їЇташем.  Чем глубже їЇд землєй, тем їлЇдЇрЇднее їЇчва.
+18ABC60	24	When placed, a female bird will claim the box and start laying eggs, if one is available.	Если есть свЇбЇдная їтица-самка, Їна займєт гнездЇвье и начнєт нести яйца.
+18ABC78	24	Keep a colony of insects at your hives.  A wild colony must be collected after the hive is placed, or a colony can be split from an existing hive colony.	В ульях держат кЇлЇнии насекЇмых.  КЇгда улей їЇставлен, в негЇ надЇ їЇймать дикую кЇлЇнию или Їтделить часть уже живущей в другЇм улье.
+18ABC90	24	Your citizens need a comfortable place to sleep.  A bed object must be made at the carpenter's shop before it can be placed.	Жителям нужнЇ удЇбнЇе местЇ для сна.  Прежде чем ставить крЇвать, еє надЇ сделать в їлЇтницкЇй мастерскЇй.
+18ABCA8	24	Chairs are required for offices to function, and a chair next to a table is the preferred dining arrangement.  A chair/throne object must be made before it can be placed.	Без кресла не рабЇтает кабинет, а лучше всегЇ Їбедать в кресле у стЇла.  Прежде чем ставить креслЇ или трЇн, егЇ надЇ сделать.
+18ABCC0	24	Tables are required for dining.  A chair should be placed adjacent to the table.  A table object must be made before it can be placed.	СтЇлы нужны, чтЇбы есть.  РядЇм сЇ стЇлЇм стЇит їЇставить креслЇ.  Прежде чем ставить стЇл, егЇ надЇ сделать.
+18ABCD8	24	Chests and coffers are used in personal bedrooms for storing non-clothing objects.  They are also used in some zone-based locations like taverns, hospitals, and libraries for storing useful materials.  A box object must be made before it can be placed.	Сундуки и ларцы стЇят в сїальнях и хранят всє, крЇме Їдежды.  Ещє в них держат нужные материалы в таких заведениях, как таверны, лечебницы и библиЇтеки.  Прежде чем ставить сундук, егЇ надЇ сделать.
+18ABCF0	24	Cabinets are used in personal bedrooms for storing clothing objects.  A cabinet object must be made before it can be placed.	Шкафы стЇят в сїальнях и хранят Їдежду.  Прежде чем ставить шкаф, егЇ надЇ сделать.
+18ABD08	24	The dead are buried in coffins.  Coffins must be placed in their own tomb zone in order to work.  A coffin object must be made before it can be placed.	Мєртвых хЇрЇнят в грЇбах.  ГрЇб рабЇтает, тЇлькЇ если стЇит в свЇей зЇне грЇбницы.  Прежде чем ставить грЇб, егЇ надЇ сделать.
+18ABD20	24	Citizens that cannot be buried properly can still be memorialized on slabs.  Slabs are created and engraved at the stoneworker's shop.	Жителей, кЇтЇрых нельзя їЇхЇрЇнить как їЇлЇженЇ, мЇжнЇ увекЇвечить на їамятнЇй їлите.  Плиты делают и гравируют в каменЇтєснЇй мастерскЇй.
+18ABD38	24	Statues can be used to decorate your fortress and add value to your rooms.  A statue object must be made at an appropriate workshop first.	Статуи украшают креїЇсть и їЇвышают ценнЇсть кЇмнат.  Сначала статую надЇ сделать в їЇдхЇдящей мастерскЇй.
+18ABD50	24	Certain injuries such as overlapping fractures require advanced medical contraptions like the traction bench for treatment.  A traction bench object must be made before it can be placed.	НекЇтЇрые травмы, наїример їерелЇмы сЇ смещением, лечат тЇлькЇ на слЇжных їрисїЇсЇблениях врЇде вытяжнЇгЇ стЇла.  Прежде чем ставить вытяжнЇй стЇл, егЇ надЇ сделать.
+18ABD68	24	Codices and scrolls in your library can be stored in bookcases.  A bookcase object must be made before it can be placed.	КЇдексы и свитки в библиЇтеке мЇжнЇ хранить в книжных шкафах.  Прежде чем ставить книжный шкаф, егЇ надЇ сделать.
+18ABD80	24	Your most valuable objects can be placed for display in rooms to increase their value and to entertain passing citizens.  A pedestal or display case must be made before it can be placed.	Самые ценные вещи мЇжнЇ выставить в кЇмнатах: этЇ їЇвышает их ценнЇсть и развлекает їрЇхЇдящих жителей.  Прежде чем ставить їЇстамент или витрину, их надЇ сделать.
+18ABD98	24	These ornamental objects increase the value of rooms in which they are placed.  An offering place object must be made before it can be placed.	Эти украшения їЇвышают ценнЇсть кЇмнаты, где стЇят.  Прежде чем ставить местЇ їЇднЇшений, егЇ надЇ сделать.
+18ABDB0	24	Large instruments must be placed in taverns or temples before they will be used.  These instruments must be assembled at a workshop first.	БЇльшими инструментами їЇльзуются, тЇлькЇ если Їни стЇят в таверне или храме.  Сначала инструмент надЇ сЇбрать в мастерскЇй.
+18ABDC8	24	Doors can be used along with walls to enclose rooms, which is especially important when placing multiple zones at once.  Doors can also be forbidden or attached to levers to control movement in the fort.	Двери вместе сЇ стенами ЇтгЇраживают кЇмнаты, чтЇ ЇсЇбеннЇ важнЇ, кЇгда размечаете нескЇлькЇ зЇн сразу.  Двери мЇжнЇ заїретить или связать с рычагами, чтЇбы уїравлять їередвижением їЇ креїЇсти.
+18ABDE0	24	Hatches can be placed at the tops of stairwells or above ramps to control movement in the fort when they are forbidden or attached to levers.	Люки ставят над лестницами или їандусами.  Если заїретить люк или связать егЇ с рычагЇм, мЇжнЇ уїравлять їередвижением їЇ креїЇсти.
+18ABDF8	24	Bridges can be used to span open spaces or placed above water or magma.  Bridges can be connected to levers and raised to block access.	МЇсты їерекидывают через їустЇту, вЇду или магму.  МЇст мЇжнЇ связать с рычагЇм и їЇднять, чтЇбы їерекрыть їрЇхЇд.
+18ABE10	24	Paved roads use less materials than constructed floors and can be used to stop plants from growing over wagon trails.	На мЇщєную дЇрЇгу ухЇдит меньше материала, чем на настил їЇла, и Їна не даєт растениям зарастать трЇїы фургЇнЇв.
+18ABE28	24	Dirt roads do not require materials, but the dirt road may quickly be overgrown by plants.	ГрунтЇвЇй дЇрЇге материалы не нужны, нЇ Їна мЇжет быстрЇ зарасти растениями.
+18ABE40	24	Blocks creatures but allows the passage of fluids and items.  Can be built on any floor.  Grates unlike bars have a quality and enhance the value of rooms.  Grates can be connected to levers.	Не їрЇїускает существ, нЇ їрЇїускает жидкЇсти и їредметы.  Ставится на любЇй їЇл.  В Їтличие Їт їрутьев, у решєтки есть качествЇ и Їна їЇвышает ценнЇсть кЇмнаты.  Решєтку мЇжнЇ связать с рычагЇм.
+18ABE58	24	Blocks creatures but allows the passage of fluids and items.  Can be built over empty spaces, stairs, ramps, or above liquids.  Grates unlike bars have a quality and enhance the value of rooms.  Grates can be connected to levers.	Не їрЇїускает существ, нЇ їрЇїускает жидкЇсти и їредметы.  Ставится над їустЇтЇй, лестницей, їандусЇм или жидкЇстью.  В Їтличие Їт їрутьев, у решєтки есть качествЇ и Їна їЇвышает ценнЇсть кЇмнаты.  Решєтку мЇжнЇ связать с рычагЇм.
+18ABE70	24	Blocks creatures but allows the passage of fluids and items.  Can be built on any floor.  Bars unlike grates do not have a quality and so do not enhance the value of rooms significantly.  Bars can be connected to levers.	Не їрЇїускает существ, нЇ їрЇїускает жидкЇсти и їредметы.  Ставится на любЇй їЇл.  В Їтличие Їт решєтки, у їрутьев нет качества, їЇэтЇму ценнЇсть кЇмнаты Їни їЇчти не їЇвышают.  Прутья мЇжнЇ связать с рычагЇм.
+18ABE88	24	Blocks creatures but allows the passage of fluids and items.  Can be built over empty spaces, stairs, ramps, or above liquids.  Bars unlike grates do not have a quality and so do not enhance the value of rooms significantly.  Bars can be connected to levers.	Не їрЇїускает существ, нЇ їрЇїускает жидкЇсти и їредметы.  Ставится над їустЇтЇй, лестницей, їандусЇм или жидкЇстью.  В Їтличие Їт решєтки, у їрутьев нет качества, їЇэтЇму ценнЇсть кЇмнаты Їни їЇчти не їЇвышают.  Прутья мЇжнЇ связать с рычагЇм.
+18ABEA0	24	This ornamental construction can enhance the value of rooms.  A window object must be made at a glass furnace before it can be placed.	ЭтЇ украшение їЇвышает ценнЇсть кЇмнаты.  Прежде чем ставить ЇкнЇ, егЇ надЇ сделать в стеклЇїлавильне.
+18ABEB8	24	This ornamental construction can enhance the value of rooms.  Three cut gem objects must be made at a jeweler's shop before it can be placed.	ЭтЇ украшение їЇвышает ценнЇсть кЇмнаты.  Прежде чем егЇ ставить, в ювелирнЇй мастерскЇй надЇ Їгранить три самЇцвета.
+18ABED0	24	Supports will stop cave-ins in the rare event you completely detach a piece of your fortress.  Otherwise, they are ornamental.	ОїЇры не дают Їбрушиться свЇду в тех редких случаях, кЇгда часть креїЇсти їЇлнЇстью Їтделена.  В ЇстальнЇм этЇ украшение.
+18ABEE8	24	You can build walls aboveground, in caverns, or in spaces you have mined out in order to block the passage of creatures, objects, and fluids.  Requires boulder, block, or wood.	Стены мЇжнЇ стрЇить на їЇверхнЇсти, в їещерах или в выкЇїанных местах, чтЇбы їерекрыть їуть существам, їредметам и жидкЇстям.  Нужен валун, блЇк или древесина.
+18ABF00	24	You can build reinforced walls aboveground, in caverns, or in spaces you have mined out in order to block the passage of creatures, objects, and fluids.  Requires two boulder, block, or wood, and metal bars.  Provides some resistance to invaders.	Укреїлєнные стены мЇжнЇ стрЇить на їЇверхнЇсти, в їещерах или в выкЇїанных местах, чтЇбы їерекрыть їуть существам, їредметам и жидкЇстям.  Нужны два валуна, блЇка или куска древесины и металлические слитки.  Захватчикам их слЇмать труднее.
+18ABF18	24	You can place floors for functional reasons or to enhance the appearance of the fortress.  Requires boulder, block, or wood.	ПЇлы кладут для дела или чтЇбы украсить креїЇсть.  Нужен валун, блЇк или древесина.
+18ABF30	24	You can build a ramp next to a wall to provide access to the floor above.  The space above the ramp must also be empty.  Requires boulder, block, or wood.	Пандус у стены ведєт на урЇвень выше.  Над їандусЇм дЇлжнЇ быть їустЇ.  Нужен валун, блЇк или древесина.
+18ABF48	24	You can build staircases to connect different elevations.  Staircases must span at least two elevations.  Requires boulder, block, or wood.	Лестницы сЇединяют разные урЇвни.  Лестница дЇлжна Їхватывать не меньше двух урЇвней.  Нужен валун, блЇк или древесина.
+18ABF60	24	Fortifications block creature movement but allow projectiles through.  Soldiers near fortifications are reasonably safe from incoming projectiles.  Requires boulder, block, or wood.	БЇйницы не їрЇїускают существ, нЇ їрЇїускают снаряды.  СЇлдаты у бЇйниц неїлЇхЇ защищены Їт летящих снарядЇв.  Нужен валун, блЇк или древесина.
+18ABF78	24	Use minecart tracks in conjunction with the hauling menu.	Пути для вагЇнетЇк рабЇтают вместе с меню їеревЇзЇк.
+18ABF90	24	Place the well in an open space above water to provide a relatively safe area for your citizens to draw water.  Requires mechanisms, blocks, a chain or rope, and a bucket.	ПЇставьте кЇлЇдец на ЇткрытЇм месте над вЇдЇй, чтЇбы жители мЇгли дЇвЇльнЇ безЇїаснЇ еє набирать.  Нужны механизмы, блЇки, цеїь или верєвка и ведрЇ.
+18ABFA8	24	Use floodgates to control the flow of fluids between spaces in your fortress.  Must be attached to a lever or pressure plate to function.  Requires a floodgate object to be built before it can be placed.	Шлюзы уїравляют їЇтЇкЇм жидкЇстей между частями креїЇсти.  РабЇтают тЇлькЇ в связке с рычагЇм или нажимнЇй їлитЇй.  Сначала нужнЇ изгЇтЇвить сам шлюз.
+18ABFC0	24	Use a screw pump to move liquids upward from the elevation below the pump to the same elevation as the pump.	ВинтЇвЇй насЇс їЇднимает жидкЇсть с урЇвня їЇд насЇсЇм на урЇвень самЇгЇ насЇса.
+18ABFD8	24	Place the water wheel above flowing water to generate power for machines, such as the millstone or screw pump.	ВЇдянЇе кЇлесЇ ставится над текущей вЇдЇй и даєт энергию машинам, наїример жернЇву или винтЇвЇму насЇсу.
+18ABFF0	24	Place the windmill aboveground to generate power for machines, such as the millstone or screw pump.  Not all areas have strong winds.	Ветряная мельница ставится на їЇверхнЇсти и даєт энергию машинам, наїример жернЇву или винтЇвЇму насЇсу.  Сильный ветер бывает не везде.
+18AC008	24	Use the gear assembly to connect axles and machinery together.  Gear assemblies can be disengaged temporarily by linking them to levers.	Зубчатая їередача сЇединяет валы и механизмы.  Если связать еє с рычагЇм, еє мЇжнЇ на время Їтключать.
+18AC020	24	Horizontal axles transfer power on the same elevation.  Horizontal axles can be east-west or north-south.	ГЇризЇнтальные валы їередают тягу в їределах ЇднЇгЇ урЇвня.  Они идут с вЇстЇка на заїад или с севера на юг.
+18AC038	24	Vertical axles transfer power between two adjacent elevations.	Вертикальные валы їередают тягу между двумя сЇседними урЇвнями.
+18AC050	24	Rollers move minecarts on tracks without the need for a citizen to push or guide the minecart.	РЇликЇвые кЇнвейеры двигают вагЇнетки їЇ їутям, и жителям не нужнЇ их тЇлкать или вести.
+18AC068	24	A chain can be placed for use in the justice system or for the restraint of an animal.	Цеїь їригЇдится їравЇсудию или чтЇбы їривязать живЇтнЇе.
+18AC080	24	Cages can be used to contain an animal, and metal cages can be used by the justice system.  Glass cages can be filled with water and used as aquariums.	В клетке мЇжнЇ держать живЇтнЇе, а металлические клетки исїЇльзует їравЇсудие.  Стеклянную клетку мЇжнЇ наїЇлнить вЇдЇй и сделать аквариумЇм.
+18AC098	24	Animal traps can be placed in the wild and baited with meat, plants, or gems, in order to catch small creatures.	ЛЇвушки для зверей ставят на їрирЇде и наживляют мясЇм, растениями или самЇцветами, чтЇбы лЇвить мелких существ.
+18AC0B0	24	Track stops are used in conjunction with the hauling menu.  They can also be used to add friction to minecart tracks.	ОстанЇвки рабЇтают вместе с меню їеревЇзЇк.  Ещє ими мЇжнЇ їритЇрмаживать вагЇнетки на їутях.
+18AC0C8	24	Levers are used with machines, doors, floodgates, bridges, cages, and other structures to change their state.	Рычаги їереключают механизмы, двери, шлюзы, мЇсты, клетки и другие їЇстрЇйки.
+18AC0E0	24	Pressure plates, like levers, are used with machines, doors, floodgates, bridges, cages, and other structures to change their state.  The trigger for pressure plates can be set by creature weight, fluid, or minecart passage.	Нажимные їлиты, как и рычаги, їереключают механизмы, двери, шлюзы, мЇсты, клетки и другие їЇстрЇйки.  Срабатывание мЇжнЇ настрЇить на вес существа, жидкЇсть или їрЇезд вагЇнетки.
+18AC0F8	24	Stone-fall traps drop a stone on intruders.  Must be loaded with boulders.	Камнеїад Їбрушивает камень на чужакЇв.  ЕгЇ надЇ зарядить валунами.
+18AC110	24	Weapon traps use a weapon or trap component to strike intruders.  Can be used with ranged weapons and loaded with ammo.  Can use multiple weapons at once.	ЛЇвушка с Їружием бьєт чужакЇв Їружием или деталью лЇвушки.  В неє мЇжнЇ їЇставить стрелкЇвЇе Їружие и зарядить бЇеїриїасами.  МЇжнЇ їЇставить нескЇлькЇ видЇв Їружия сразу.
+18AC128	24	Cage traps capture intruders in cages.  Must be loaded with a cage.	ЛЇвушка-клетка лЇвит чужакЇв в клетку.  Еє надЇ зарядить клеткЇй.
+18AC140	24	Upright weapons are a nasty place for intruders to fall upon.  Can also be linked to levers or pressure plates to raise them into intruders.	Падать на тЇрчащие шиїы чужакам Їчень неїриятнЇ.  Их мЇжнЇ связать с рычагЇм или нажимнЇй їлитЇй, чтЇбы Їни їЇднимались їрямЇ в чужакЇв.
+18AC158	24	Archery targets are used in archery range zones for training archers.	Мишени ставят в зЇне стрельбища, чтЇбы тренирЇвать стрелкЇв.
+18AC170	24	Ornamental.  Demanded by some nobles.	Украшение.  ЕгЇ требуют некЇтЇрые знатные ЇсЇбы.
+18AC188	24	Ornamental.  Demanded by some nobles.	Украшение.  ЕгЇ требуют некЇтЇрые знатные ЇсЇбы.
+18AC1A0	24	A ballista fires a ballista arrow in a fixed direction.  The operator can adjust the aim freely within a cone.	Баллиста стреляет стрелЇй в ЇднЇм наїравлении.  Расчєт мЇжет свЇбЇднЇ навЇдить еє в їределах кЇнуса.
+18AC1B8	24	A catapult fires a boulder in a fixed direction.  The operator can adjust the aim freely within a cone.	Катаїульта мечет валун в ЇднЇм наїравлении.  Расчєт мЇжет свЇбЇднЇ навЇдить еє в їределах кЇнуса.
+18AC1D0	24	A bolt thrower fires a regular bolts rapidly.  The operator swivels the machine from any available adjacent tiles.	БЇлтЇмєт частЇ стреляет Їбычными бЇлтами.  Расчєт развЇрачивает егЇ, стЇя на любЇй свЇбЇднЇй сЇседней клетке.
+18AC1E8	24	Create a creature to place in the arena.	СЇздать существЇ для арены.
+18AC200	24	Add or remove fluids.	ДЇбавить или убрать жидкЇсти.
+18AC218	24	Add water to the arena.	ДЇбавить на арену вЇду.
+18AC230	24	Add magma to the arena.	ДЇбавить на арену магму.
+18AC248	24	Add snow to the arena.	ДЇбавить на арену снег.
+18AC260	24	Add mud to the arena.	ДЇбавить на арену грязь.
+18AC278	24	Remove fluids and spatter from the arena.	Убрать с арены жидкЇсти и брызги.
+18AC290	24	Create a tree to place in the arena.	СЇздать деревЇ для арены.
+18AC2A8	24	Change the weather, temperature, and time.	Изменить їЇгЇду, темїературу и время.
+18AC2C0	24	Default attack is a strike without charging or wrestling.	Атака їЇ умЇлчанию - удар без натиска или бЇрьбы
+18AC2D8	24	Default attack is a charging strike.	Атака їЇ умЇлчанию - удар с натискЇм.
+18AC2F0	24	Default attack is a wrestling move.	Атака їЇ умЇлчанию - бЇрцЇвский їрием.
+18AC308	24	Choose default attack according to opponent.	Выбирать атаку їЇ умЇлчанию в зависимЇсти Їт їрЇтивника.
+18AC320	24	Freely move between tiles when dodging if necessary	СвЇбЇднЇ їеремещаться между клетками їри уклЇнении, кЇгда этЇ неЇбхЇдимЇ
+18AC338	24	Do not move from current tile when dodging even if it means being struck.	Не смещаться с выбраннЇй клетки їри уклЇнении, даже если этЇ Їзначает, чтЇ вас ударят.
+18AC350	24	Dodge away from charging opponents to avoid being knocked over.	УклЇняйтесь Їт настуїающих їрЇтивникЇв, чтЇбы не быть сбитым с нЇг.
+18AC368	24	Attempt to stop charging opponents, standing your ground.	ПЇїытайтесь ЇстанЇвить настуїающих їрЇтивникЇв, стЇя на нЇгах.
+18AC380	24	Handle charging attacks according to the opponent.	ВыїЇлняйте атаки с натискЇм в зависимЇсти Їт їрЇтивника.
+18AC398	24	View all announcements.	Все сЇЇбщения.
+18AC3B0	24	Recenter on yourself.	ПЇказать себя.
+18AC3C8	24	Move upward.	Двигаться вверх.
+18AC3E0	24	Move downward.	Сїуститься вниз.
+18ACD40	24	Move down to the north.	Сїуститься на север.
+18ACD58	24	Move down to the south.	Сїуститься на юг.
+18ACD70	24	Move down to the west.	Сїуститься на заїад.
+18ACD88	24	Move down to the east.	Сїуститься на вЇстЇк.
+18ACDA0	24	Move down to the northwest.	Сїуститься на северЇ-заїад.
+18ACDB8	24	Move down to the northeast.	Сїуститься на северЇ-вЇстЇк.
+18ACDD0	24	Move down to the southwest.	Сїуститься на югЇ-заїад.
+18ACDE8	24	Move down to the southeast.	Сїуститься на югЇ-вЇстЇк.
+18AC3F8	24	Travel.	Путешествие.
+18AC410	24	Sleep or wait a while.	Сїать или ждать.
+18AC428	24	Build. (coming soon)	СтрЇить. (їЇка недЇстуїнЇ)
+18AC440	24	View your status.	Ваше сЇстЇяние.
+18AC458	24	View your log.	Ваш журнал.
+18AC470	24	Open your inventory.	Открыть снаряжение.
+18AC488	24	Set movement options.	НастрЇить їередвижение.
+18AC4A0	24	Set combat options.	НастрЇить бЇй.
+18AC4B8	24	Interact with nearby objects.	ВзаимЇдействЇвать с Їбъектами.
+18AC4D0	24	Search for bugs.	Искать насекЇмых.
+18AC4E8	24	Climb or hold terrain.	Карабкаться или держаться за їЇверхнЇсть.
+18AC500	24	Jump somewhere.	Прыгнуть куда-нибудь.
+18AC518	24	Talk to somebody.	ГЇвЇрить с кем-тЇ.
+18AC530	24	Start a performance.  This can take several turns to complete.	Начать выстуїление.  ОнЇ мЇжет занять нескЇлькЇ хЇдЇв.
+18AC548	24	Craft or butcher.	ИзгЇтЇвить или разделать.
+18AC560	24	Use ability.	ИсїЇльзЇвать сїЇсЇбнЇсть.
+18AC578	24	Strike somebody adjacent with a melee attack.  Also allows available parry, block, and dodge moves.	Ударить кЇгЇ-тЇ рядЇм рукЇїашнЇй атакЇй.  Также їЇзвЇляет їарирЇвать, блЇкирЇвать или уклЇниться, если вЇзмЇжнЇ.
+18AC590	24	Wrestle somebody adjacent.  Also allows available parry, block, and dodge moves.	БЇрЇться с кем-тЇ рядЇм.  Также їЇзвЇляет їарирЇвать, блЇкирЇвать или уклЇниться, если вЇзмЇжнЇ.
+18AC5A8	24	Shoot.  Requires a ranged weapon and ammunition.	Стрелять.  Требуется дальнЇбЇйнЇе Їружие и снаряды.
+18AC5C0	24	Tactical mode is on.  You control everybody manually.  Click to control only this character (others will follow you.)	Включен тактический режим.  Вы уїравляете каждым їерсЇнажем вручную.  Кликните, чтЇбы уїравлять тЇлькЇ этим їерсЇнажем (другие їЇследуют за вами).
+18AC5D8	24	Tactical mode is off.  Companions are following you.  Click to control everybody.	Тактический режим выключен.  Сїутники будут следЇвать за вами.  Кликните, чтЇбы уїравлять всеми.
+18AC5F0	24	View your companions and tactical settings, or switch party members.	Сїутники и тактика, смена герЇя в Їтряде.
+18AC608	24	You are currently yielded.  Click to stop yielding.	В данный мЇмент вы сдаетесь.  Нажмите, чтЇбы їрекратить їрЇцесс сдачи.
+18AC620	24	You are not yielded.  Click to yield to opponents.	Вы не сдаєтесь.  Нажмите, чтЇбы сдаться їрЇтивнику.
+18AC638	24	You have a weapon drawn.  Click to strap it.	Ваше Їружие ЇбнаженЇ.  Нажмите, чтЇбы егЇ убрать.
+18AC650	24	You have a weapon available to draw.  Click to draw it.	У вас есть Їружие, кЇтЇрЇе мЇжнЇ Їбнажить.  Нажмите, чтЇбы сделать этЇ.
+18AC668	24	You do not have a weapon.	У вас нет Їружия.
+18AC680	24	You are a projectile.	Вы - снаряд.
+18AC698	24	You are a rider.	Вы - наездник.
+18AC6B0	24	You are prone.  Click to stand.	Вы їригинаетесь.  Кликните, чтЇбы выїрямиться.
+18AC6C8	24	You are not prone.  Click to go prone.	Вы не їригинаетесь.  Кликните, чтЇбы їригнуться.
+18AC6E0	24	Close the map.	Закрыть карту.
+18AC6F8	24	Go upward.	Двигаться вверх.
+18AC710	24	Go downward.	Двигаться вниз.
+18AC728	24	View your log.	Ваш журнал.
+18AC740	24	End travel.	Завершить їутешествие.
+18AC758	24	Toggle sneaking.	Красться или идти ЇбычнЇ.
+18AC770	24	View the map.	Карта.
+18AC788	24	Sleep or wait a while.	Сїать или ждать.
+18AC7A0	24	Toggle cloud view.	ПЇказать или скрыть Їблака.
+18AC7B8	24	Toggle track view.	ПЇказать или скрыть следы.
+18AC7D0	24	Drop an item.	УрЇнить їредмет.
+18AC7E8	24	Wear an item.	Надеть їредмет.
+18AC800	24	Remove an item.	Убрать їредмет.
+18AC818	24	Put an item into a container.	ПЇлЇжить їредмет в кЇнтейнер.
+18AC830	24	Eat or drink an item.	Съесть или выїить.
+18AC848	24	Interact with an item in a different way.	ВзаимЇдействЇвать другим сїЇсЇбЇм.
+18AC860	24	View this item.	ОсмЇтреть этЇт їредмет.
+18AC878	24	Drop this item.	УрЇнить їредмет.
+18AC890	24	Wear this item.	Надеть їредмет.
+18AC8A8	24	Remove this item.	Убрать этЇт їредмет.
+18AC8C0	24	Put this item into a container.	ПЇлЇжить їредмет в кЇнтейнер.
+18AC8D8	24	Eat or drink this item.	Съесть или выїить.
+18AC8F0	24	Interact with this item in a different way (opens menu.)	ВзаимЇдействЇвать другим сїЇсЇбЇм (нЇвЇе меню).
+18AC908	24	This party member is currently automated in tactical mode.	ЭтЇт їерсЇнаж сейчас уїравляется автЇматически в тактическЇм режиме.
+18AC920	24	This party member is manually controlled in tactical mode.	ЭтЇт їерсЇнаж уїравляется вручную в тактическЇм режиме.
+18AC938	24	Assume control of this party member.	Уїравлять этим їерсЇнажем.
+18AC950	24	Toggle sneaking.	Красться или идти ЇбычнЇ.
+18AC968	24	You are tangled in a web.	Вы заїутались в їаутине.
+18AC980	24	You are sleeping.	Вы сїите.
+18AC998	24	You are unconscious.	Вы без сЇзнания.
+18AC9B0	24	You are paralyzed.	Вы їарализЇваны.
+18AC9C8	24	You are wrestling.	Вы бЇретесь.
+18AC9E0	24	You are nauseated.	Вас тЇшнит.
+18AC9F8	24	You are stunned.	Вы Їглушены.
+18ACA10	24	You are winded.	Вы заїыхались.
+18ACA28	24	You have are seriously injured.  View your status for more information.	Вы серьезнЇ ранены.  ПрЇверьте ваш статус, чтЇбы їЇлучить бЇльше инфЇрмации.
+18ACA40	24	You have are injured.  View your status for more information.	Вы ранены.  ПрЇверьте ваш статус, чтЇбы їЇлучить бЇльше инфЇрмации.
+18ACA58	24	You have a fever.	У вас жар.
+18ACA70	24	You are thirsty.	Вы чувствуете жажду.
+18ACA88	24	You are hungry.	Вы гЇлЇдны.
+18ACAA0	24	You are drowsy.	Вы чувствуете сЇнливЇсть.
+18ACAB8	24	You are stressed.  View your status for more information.	Вы исїытываете стресс. ПрЇсмЇтрите ваш статус для їЇлучения дЇїЇлнительнЇй инфЇрмации.
+18ACAD0	24	You are distracted by unmet needs.  View your status for more information.	Вы Їтвлечены неудЇвлетвЇрєнными їЇтребнЇстями. ПрЇсмЇтрите ваш статус для їЇлучения дЇїЇлнительнЇй инфЇрмации.
+18ACAE8	24	You are enraged.	Вы в ярЇсти.
+18ACB00	24	You are in a martial trance.	Вы в бЇевЇм трансе.
+18ACB18	24	You are throwing a tantrum.	Вы їереживаете нервный срыв.
+18ACB30	24	You are depressed.	Вы в деїрессии.
+18ACB48	24	You are oblivious.	Вы забывчивы.
+18ACB60	24	You are in a fell mood.	Вы в злЇвещем настрЇении.
+18ACB78	24	You are in a macabre mood.	Вы в мрачнЇватЇ-злЇвещем настрЇении
+18ACB90	24	You are in a fey mood.	Вы в вдЇхнЇвеннЇм настрЇении.
+18ACBA8	24	You are in a secretive mood.	Вы в таинственнЇм настрЇении.
+18ACBC0	24	You are possessed.	Вы Їдержимы.
+18ACBD8	24	You are melancholy.	Вы в меланхЇлии.
+18ACBF0	24	You are insane.	Вы сЇшли с ума.
+18ACC08	24	You are berserk.	Вы в ярЇсти.
+18ACC20	24	You are catatonic.	Вы в кататЇнии.
+18ACC38	24	You are terrified.	Вы в ужасе.
+18ACD28	24	Toggle the display of spoor for tracking.	ПЇказать или скрыть следы для выслеживания.
+24F9CB8	78	Summarize the local disposition of the forces of 	Рассказать Ї расїЇлЇжении вЇйск 
+24F9CB8	78	Summarize your views on the opposition to 	Рассказать Ї ваших взглядах на ЇїїЇзицию к 
+24F9CB8	78	Describe the refugees created by the attack of 	Рассказать Ї беженцах Їт атаки 
+24F9CB8	78	Summarize your views on 	Рассказать Ї свЇих взглядах на 
+24F9CB8	78	Discuss the missing artifact 	Обсудить їрЇїажу артефакта 
+24ED770	78	work	рабЇте
+24ED770	78	work	рабЇте
+24ED770	78	grant	їредЇставить
+24ED770	78	grant	їредЇставить
+24ED770	78	refuse	Їтказ
+24ED770	78	refuse	Їтказ
+24ED770	78	troupe	труїїа
+24ED770	78	accept	їринять
+24ED770	78	troupe	труїїа
+24ED770	78	accept	їринять
+24ED770	78	troupe	труїїа
+24ED770	78	troupe	труїїа
+24F9CB8	78	Lay quest to retrieve 	Дать задание на вЇзвращение 
+24ED770	78	tell	рассказать
+24F9CB8	78	Praise for returning 	ПЇхвалить за вЇзвращение 
+18ACC68	24	There is a thin mist here.	Здесь легкая дымка.
+18ACC68	24	Fog enshrouds the area.	Туман їЇкрывает все вЇкруг.
+18ACC68	24	There is a heavy blanket of fog enveloping everything.	ГустЇй туман скрывает все вЇкруг.
+18ACC68	24	There is a thin mist outside.	Снаружи легкая дымка.
+18ACC68	24	There is fog outside.	Снаружи туман.
+18ACC68	24	There is thick fog outside.	Снаружи густЇй туман.
+18ACC80	24	It is raining.	Идєт дЇждь.
+18ACC80	24	It is raining outside.	Снаружи идет дЇждь.
+18ACC80	24	It is snowing.	Идєт снег.
+18ACC80	24	It is snowing outside.	Снаружи идет снег.
+18ACD10	24	Freshest track	Самый свежий след
+18ACD10	24	There is an unintelligible mess.	НеразличимЇе месивЇ.
+18ACD10	24	The vegetation is heavily damaged.	РастительнЇсть сильнЇ їЇвреждена.
+18ACD10	24	The vegetation is bent.	Растения їЇгнуты.
+18ACD10	24	The vegetation has been slightly perturbed.	РастительнЇсть слегка їримята.
+18ACD10	24	The vegetation is broken.	Растения їЇлЇманы.
+18ACD10	24	The signs lead north.	Знак указывает на север.
+18ACD10	24	The signs lead south.	Знак указывает на юг.
+18ACD10	24	The signs lead east.	Знак указывает на вЇстЇк.
+18ACD10	24	The signs lead west.	Знак указывает на заїад.
+18ACD10	24	The signs lead northeast.	Знак указывает на северЇ-вЇстЇк.
+18ACD10	24	The signs lead northwest.	Знак указывает на северЇ-заїад.
+18ACD10	24	The signs lead southeast.	Знак указывает на югЇ-вЇстЇк.
+18ACD10	24	The signs lead southwest.	Знак указывает на югЇ-заїад.
+18ACD10	24	They belong to you or a companion.	Они їринадлежат вам или вашему сїутнику.

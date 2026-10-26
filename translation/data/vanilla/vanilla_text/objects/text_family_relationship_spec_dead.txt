@@ -1,0 +1,7 @@
+text_family_relationship_spec_dead
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:FAMILY_RELATIONSHIP_SPEC_DEAD]
+
+у меня [CONTEXT:FAMILY_RELATIONSHIP] ─ [CONTEXT:HIST_FIG:TRANS_NAME], нЇ уже нет в живых

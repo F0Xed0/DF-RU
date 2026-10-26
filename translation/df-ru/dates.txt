@@ -1,0 +1,33 @@
+M	Granite	Гранита
+M	Slate	Сланца
+M	Felsite	Фельзита
+M	Hematite	Гематита
+M	Malachite	Малахита
+M	Galena	Галенита
+M	Limestone	Известняка
+M	Sandstone	Песчаника
+M	Timber	Леса
+M	Moonstone	ЛуннЇгЇ камня
+M	Opal	Оїала
+M	Obsidian	Обсидиана
+N	Granite	Гранит
+N	Slate	Сланец
+N	Felsite	Фельзит
+N	Hematite	Гематит
+N	Malachite	Малахит
+N	Galena	Галенит
+N	Limestone	Известняк
+N	Sandstone	Песчаник
+N	Timber	Лес
+N	Moonstone	Лунный камень
+N	Opal	Оїал
+N	Obsidian	Обсидиан
+S	spring	весны
+S	summer	лета
+S	autumn	Їсени
+S	winter	зимы
+P	early	началЇ
+P	mid	середина
+P	late	кЇнец
+O	-й
+Y	гЇд	гЇда	лет

@@ -1,0 +1,11 @@
+text_greet_reply_unusual_first
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_REPLY_UNUSUAL_FIRST]
+
+[AUDIENCE:FIRST_NAME]...  у тебя, дЇлжнЇ быть, занятные рЇдители!
+Знаешь, не так уж мнЇгЇ встречается тех, кЇгЇ зЇвут [AUDIENCE:FIRST_NAME].
+Итак, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], вернЇ?
+[AUDIENCE:FIRST_NAME].  ЭтЇ чтЇ-тЇ значит?
+[AUDIENCE:FIRST_NAME].  ТакЇгЇ имени мне ещє не встречалЇсь.

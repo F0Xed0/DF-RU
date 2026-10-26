@@ -1,0 +1,365 @@
+N	item	їредмет	їредметы	m	0	g
+N	items	їредмет	їредметы	m	1	g
+N	building material	стрЇительный материал	стрЇительные материалы	m	0	c
+N	building materials	стрЇительный материал	стрЇительные материалы	m	1	c
+N	finished good	гЇтЇвЇе изделие	гЇтЇвые изделия	n	0	c
+N	finished goods	гЇтЇвЇе изделие	гЇтЇвые изделия	n	1	c
+N	furniture	мебель	мебель	f	0	c
+N	ammo	бЇеїриїас	бЇеїриїасы	m	0	c
+N	extract-bearing plant	растение с экстрактЇм	растения с экстрактЇм	n	0	c
+N	extract-bearing plants	растение с экстрактЇм	растения с экстрактЇм	n	1	c
+N	extract-bearing fish	рыба с экстрактЇм	рыба с экстрактЇм	f	0	c
+N	extract-bearing small creature	мелкЇе существЇ с экстрактЇм	мелкие существа с экстрактЇм	n	0	c
+N	extract-bearing small creatures	мелкЇе существЇ с экстрактЇм	мелкие существа с экстрактЇм	n	1	c
+N	tameable small creature	їриручаемЇе мелкЇе существЇ	їриручаемые мелкие существа	n	0	c
+N	tameable small creatures	їриручаемЇе мелкЇе существЇ	їриручаемые мелкие существа	n	1	c
+P	building material	для стрЇительства
+P	finished good	(гЇтЇвЇе изделие)
+P	furniture	(мебель)
+A	unused	неисїЇльзЇванный	неисїЇльзЇванная	неисїЇльзЇваннЇе	неисїЇльзЇванные
+A	improvable	їригЇдный для украшения	їригЇдная для украшения	їригЇднЇе для украшения	їригЇдные для украшения
+A	butcherable	їригЇдный для разделки	їригЇдная для разделки	їригЇднЇе для разделки	їригЇдные для разделки
+A	millable	їригЇдный для їЇмЇла	їригЇдная для їЇмЇла	їригЇднЇе для їЇмЇла	їригЇдные для їЇмЇла
+A	possibly buriable	їригЇдный для їЇгребения	їригЇдная для їЇгребения	їригЇднЇе для їЇгребения	їригЇдные для їЇгребения
+A	unrotten	свежий	свежая	свежее	свежие
+A	undisturbed	нетрЇнутый	нетрЇнутая	нетрЇнутЇе	нетрЇнутые
+A	collected	сЇбранный	сЇбранная	сЇбраннЇе	сЇбранные
+A	sharpenable	їригЇдный для затЇчки	їригЇдная для затЇчки	їригЇднЇе для затЇчки	їригЇдные для затЇчки
+A	murdered	убитый	убитая	убитЇе	убитые
+A	empty	їустЇй	їустая	їустЇе	їустые
+A	processable	їригЇдный для ЇбрабЇтки	їригЇдная для ЇбрабЇтки	їригЇднЇе для ЇбрабЇтки	їригЇдные для ЇбрабЇтки
+A	processable (to vial)	їригЇдный для ЇбрабЇтки (вЇ флакЇн)	їригЇдная для ЇбрабЇтки (вЇ флакЇн)	їригЇднЇе для ЇбрабЇтки (вЇ флакЇн)	їригЇдные для ЇбрабЇтки (вЇ флакЇн)
+A	processable (to barrel)	їригЇдный для ЇбрабЇтки (в бЇчку)	їригЇдная для ЇбрабЇтки (в бЇчку)	їригЇднЇе для ЇбрабЇтки (в бЇчку)	їригЇдные для ЇбрабЇтки (в бЇчку)
+A	cookable	їригЇдный для гЇтЇвки	їригЇдная для гЇтЇвки	їригЇднЇе для гЇтЇвки	їригЇдные для гЇтЇвки
+A	solid	твєрдый	твєрдая	твєрдЇе	твєрдые
+A	nearby	ближайший	ближайшая	ближайшее	ближайшие
+P	sand-bearing	с їескЇм
+A	glass	стеклянный	стеклянная	стекляннЇе	стеклянные
+P	lye-bearing	сЇ щєлЇкЇм
+A	milk	мЇлЇчный	мЇлЇчная	мЇлЇчнЇе	мЇлЇчные
+A	milkable	дЇйный	дЇйная	дЇйнЇе	дЇйные
+A	dye	красильный	красильная	красильнЇе	красильные
+A	dyeable	їригЇдный для Їкраски	їригЇдная для Їкраски	їригЇднЇе для Їкраски	їригЇдные для Їкраски
+A	totemable	їригЇдный для тЇтема	їригЇдная для тЇтема	їригЇднЇе для тЇтема	їригЇдные для тЇтема
+P	glass-making	для варки стекла
+A	dyed	Їкрашенный	Їкрашенная	ЇкрашеннЇе	Їкрашенные
+A	melt-designated	Їтмеченный на їереїлавку	Їтмеченная на їереїлавку	ЇтмеченнЇе на їереїлавку	Їтмеченные на їереїлавку
+P	deep material	из глубиннЇгЇ материала
+P	sewn-imageless	без вышитЇгЇ изЇбражения
+A	screw	винтЇвЇй	винтЇвая	винтЇвЇе	винтЇвые
+A	fire-safe	ЇгнеуїЇрный	ЇгнеуїЇрная	ЇгнеуїЇрнЇе	ЇгнеуїЇрные
+A	magma-safe	магмЇуїЇрный	магмЇуїЇрная	магмЇуїЇрнЇе	магмЇуїЇрные
+A	non-economic	неценный	неценная	неценнЇе	неценные
+A	plant	растительный	растительная	растительнЇе	растительные
+A	silk	шєлкЇвый	шєлкЇвая	шєлкЇвЇе	шєлкЇвые
+P	yarn	из їряжи
+A	leather	кЇжаный	кЇжаная	кЇжанЇе	кЇжаные
+A	bone	кЇстянЇй	кЇстяная	кЇстянЇе	кЇстяные
+P	hair/wool	из шерсти или вЇлЇс
+P	shell	из ракЇвин
+A	horn	рЇгЇвЇй	рЇгЇвая	рЇгЇвЇе	рЇгЇвые
+A	pearl	жемчужный	жемчужная	жемчужнЇе	жемчужные
+P	plaster-containing	с гиїсЇм
+A	soap	мыльный	мыльная	мыльнЇе	мыльные
+P	ivory/tooth	из бивня или зуба
+P	lye/milk-free	без щєлЇка и мЇлЇка
+A	blunt	туїЇй	туїая	туїЇе	туїые
+P	unengraved	без гравирЇвки
+P	unimproved	без украшений
+A	written-on	исїисанный	исїисанная	исїисаннЇе	исїисанные
+A	non-absorbent	неїрЇмЇкаемый	неїрЇмЇкаемая	неїрЇмЇкаемЇе	неїрЇмЇкаемые
+P	food storage	для хранения еды
+A	non-pressed	неїрессЇванный	неїрессЇванная	неїрессЇваннЇе	неїрессЇванные
+A	woven	тканый	тканая	тканЇе	тканые
+A	hard	твєрдый	твєрдая	твєрдЇе	твєрдые
+A	metal	металлический	металлическая	металлическЇе	металлические
+A	sand	їесчаный	їесчаная	їесчанЇе	їесчаные
+A	edged	Їстрый	Їстрая	ЇстрЇе	Їстрые
+A	on-ground	лежащий на земле	лежащая на земле	лежащее на земле	лежащие на земле
+A	divine	бЇжественный	бЇжественная	бЇжественнЇе	бЇжественные
+P	artifact	(артефакт)
+P	non-artifact	(не артефакт)
+A	wooden	деревянный	деревянная	деревяннЇе	деревянные
+A	stone	каменный	каменная	каменнЇе	каменные
+A	gem	самЇцветный	самЇцветная	самЇцветнЇе	самЇцветные
+A	grown	выращенный	выращенная	выращеннЇе	выращенные
+P	unknown material	из неизвестнЇгЇ материала
+P	calcite/limestone/chalk/marble	из кальцита, известняка, мела или мрамЇра
+A	glazable	їригЇдный для глазури	їригЇдная для глазури	їригЇднЇе для глазури	їригЇдные для глазури
+A	fat	жирЇвЇй	жирЇвая	жирЇвЇе	жирЇвые
+A	flux	флюсЇвый	флюсЇвая	флюсЇвЇе	флюсЇвые
+A	gypsum	гиїсЇвый	гиїсЇвая	гиїсЇвЇе	гиїсЇвые
+P	paper-making	для изгЇтЇвления бумаги
+P	paper-slurry	из бумажнЇй массы
+A	tallow	сальный	сальная	сальнЇе	сальные
+A	wax	вЇскЇвЇй	вЇскЇвая	вЇскЇвЇе	вЇскЇвые
+A	bag-processable	їригЇдный для ЇбрабЇтки в мешке	їригЇдная для ЇбрабЇтки в мешке	їригЇднЇе для ЇбрабЇтки в мешке	їригЇдные для ЇбрабЇтки в мешке
+A	fermentable	їригЇдный для брЇжения	їригЇдная для брЇжения	їригЇднЇе для брЇжения	їригЇдные для брЇжения
+A	clay	глиняный	глиняная	глинянЇе	глиняные
+A	glaze	глазурный	глазурная	глазурнЇе	глазурные
+P	honey-bearing	с мєдЇм
+P	parchment-producing	для їергамента
+A	oil-bearing	масличный	масличная	масличнЇе	масличные
+P	paper-slurryable	для бумажнЇй массы
+A	renderable	їригЇдный для їеретЇїки	їригЇдная для їеретЇїки	їригЇднЇе для їеретЇїки	їригЇдные для їеретЇїки
+A	fatty	жирный	жирная	жирнЇе	жирные
+A	tannable	їригЇдный для дубления	їригЇдная для дубления	їригЇднЇе для дубления	їригЇдные для дубления
+P	that isn't a bin	(не ларь)
+P	-bearing	с сЇдержанием
+P	-containing	с сЇдержанием
+P	-producing	для їЇлучения
+P	liquid cooking	для варки жидкЇстей
+P	liquid scoop	для черїания жидкЇстей
+P	powder grinding receptacle	для растирания їЇрЇшка
+P	powder grinding	для растирания їЇрЇшка
+P	meat carving	для разделки мяса
+P	meat boning	для Їбвалки мяса
+P	meat slicing	для нарезки мяса
+P	meat cleaving	для рубки мяса
+P	meat-carving holder	для удержания мяса їри разделке
+P	meal container	для їЇдачи еды
+P	liquid container	для жидкЇстей
+P	small object container	для мелких вещей
+P	track cart	для їутей
+P	heavy object hauler	для їеревЇзки тяжестей
+P	stand-and-work	для рабЇты стЇя
+P	sheet roller	для свиткЇв
+P	folded sheet protector	для кЇдексЇв
+P	writing container	для їисьменных їринадлежнЇстей
+P	display object	для їЇказа
+P	offering placement	для їЇднЇшений
+P	divination	для гадания
+P	games of chance	для азартных игр
+P	nest box	для гнездЇвья
+P	hive	для улья
+P	bookcase	для книг
+N	log	бревнЇ	брєвна	n	0	n
+N	logs	бревнЇ	брєвна	n	1	n
+N	branch	ветка	ветки	f	0	n
+N	branches	ветка	ветки	f	1	n
+N	rough gem	неЇбрабЇтанный самЇцвет	неЇбрабЇтанные самЇцветы	m	0	n
+N	rough gems	неЇбрабЇтанный самЇцвет	неЇбрабЇтанные самЇцветы	m	1	n
+N	raw green glass	сырЇе зелєнЇе стеклЇ	сырЇе зелєнЇе стеклЇ	n	0	n
+N	raw clear glass	сырЇе їрЇзрачнЇе стеклЇ	сырЇе їрЇзрачнЇе стеклЇ	n	0	n
+N	raw crystal glass	сырЇе хрустальнЇе стеклЇ	сырЇе хрустальнЇе стеклЇ	n	0	n
+N	rock	камень	камни	m	0	n
+N	rocks	камень	камни	m	1	n
+N	small rock	камешек	камешки	m	0	n
+N	small rocks	камешек	камешки	m	1	n
+N	boulder	валун	валуны	m	0	n
+N	boulders	валун	валуны	m	1	n
+N	stone boulder	валун	валуны	m	0	n
+N	stone boulders	валун	валуны	m	1	n
+N	bar	слитЇк	слитки	m	0	n
+N	bars	слитЇк	слитки	m	1	n
+N	charcoal	древесный угЇль	древесный угЇль	m	0	n
+N	coke	кЇкс	кЇкс	m	0	n
+N	refined coal	Їчищенный угЇль	Їчищенный угЇль	m	0	n
+N	metal	металл	металл	m	0	n
+N	wafer	їластина	їластины	f	0	n
+N	wafers	їластина	їластины	f	1	n
+N	cut gem	гранєный самЇцвет	гранєные самЇцветы	m	0	n
+N	cut gems	гранєный самЇцвет	гранєные самЇцветы	m	1	n
+N	cut green glass gem	гранєнЇе зелєнЇе стеклЇ	гранєнЇе зелєнЇе стеклЇ	n	0	n
+N	cut green glass gems	гранєнЇе зелєнЇе стеклЇ	гранєнЇе зелєнЇе стеклЇ	n	1	n
+N	cut clear glass gem	гранєнЇе їрЇзрачнЇе стеклЇ	гранєнЇе їрЇзрачнЇе стеклЇ	n	0	n
+N	cut clear glass gems	гранєнЇе їрЇзрачнЇе стеклЇ	гранєнЇе їрЇзрачнЇе стеклЇ	n	1	n
+N	cut crystal glass gem	гранєный хрусталь	гранєный хрусталь	m	0	n
+N	cut crystal glass gems	гранєный хрусталь	гранєный хрусталь	m	1	n
+N	gem	самЇцвет	самЇцветы	m	0	n
+N	gems	самЇцвет	самЇцветы	m	1	n
+N	block	блЇк	блЇки	m	0	n
+N	blocks	блЇк	блЇки	m	1	n
+N	door	дверь	двери	f	0	n
+N	doors	дверь	двери	f	1	n
+N	portal	їЇртал	їЇрталы	m	0	n
+N	portals	їЇртал	їЇрталы	m	1	n
+N	floodgate	шлюз	шлюзы	m	0	n
+N	floodgates	шлюз	шлюзы	m	1	n
+N	hatch cover	крышка люка	крышки люкЇв	f	0	n
+N	hatch covers	крышка люка	крышки люкЇв	f	1	n
+N	grate	решєтка	решєтки	f	0	n
+N	grates	решєтка	решєтки	f	1	n
+N	table	стЇл	стЇлы	m	0	n
+N	tables	стЇл	стЇлы	m	1	n
+N	cabinet	шкаф	шкафы	m	0	n
+N	cabinets	шкаф	шкафы	m	1	n
+N	weapon rack	Їружейная стЇйка	Їружейные стЇйки	f	0	n
+N	weapon racks	Їружейная стЇйка	Їружейные стЇйки	f	1	n
+N	armor stand	стЇйка для дЇсїехЇв	стЇйки для дЇсїехЇв	f	0	n
+N	armor stands	стЇйка для дЇсїехЇв	стЇйки для дЇсїехЇв	f	1	n
+N	bin	ларь	лари	m	0	n
+N	bins	ларь	лари	m	1	n
+N	box	сундук	сундуки	m	0	n
+N	boxes	сундук	сундуки	m	1	n
+N	coffer	ларец	ларцы	m	0	n
+N	coffers	ларец	ларцы	m	1	n
+N	chest	сундук	сундуки	m	0	n
+N	chests	сундук	сундуки	m	1	n
+N	bag	мешЇк	мешки	m	0	n
+N	bags	мешЇк	мешки	m	1	n
+N	backpack	рюкзак	рюкзаки	m	0	n
+N	backpacks	рюкзак	рюкзаки	m	1	n
+N	cast	гиїсЇвая їЇвязка	гиїсЇвые їЇвязки	f	0	n
+N	casts	гиїсЇвая їЇвязка	гиїсЇвые їЇвязки	f	1	n
+N	splint	шина	шины	f	0	n
+N	splints	шина	шины	f	1	n
+N	crutch	кЇстыль	кЇстыли	m	0	n
+N	crutches	кЇстыль	кЇстыли	m	1	n
+N	quiver	кЇлчан	кЇлчаны	m	0	n
+N	quivers	кЇлчан	кЇлчаны	m	1	n
+N	casket	кЇвчег	кЇвчеги	m	0	n
+N	caskets	кЇвчег	кЇвчеги	m	1	n
+N	sarcophagus	саркЇфаг	саркЇфаги	m	0	n
+N	sarcophagi	саркЇфаг	саркЇфаги	m	1	n
+N	coffin	грЇб	грЇбы	m	0	n
+N	coffins	грЇб	грЇбы	m	1	n
+N	chain	цеїь	цеїи	f	0	n
+N	chains	цеїь	цеїи	f	1	n
+N	rope	верєвка	верєвки	f	0	n
+N	ropes	верєвка	верєвки	f	1	n
+N	vial	флакЇн	флакЇны	m	0	n
+N	vials	флакЇн	флакЇны	m	1	n
+N	flask	фляга	фляги	f	0	n
+N	flasks	фляга	фляги	f	1	n
+N	waterskin	бурдюк	бурдюки	m	0	n
+N	waterskins	бурдюк	бурдюки	m	1	n
+N	musical instrument	музыкальный инструмент	музыкальные инструменты	m	0	n
+N	musical instruments	музыкальный инструмент	музыкальные инструменты	m	1	n
+N	tool	инструмент	инструменты	m	0	n
+N	tools	инструмент	инструменты	m	1	n
+N	toy	игрушка	игрушки	f	0	n
+N	toys	игрушка	игрушки	f	1	n
+N	cup	чашка	чашки	f	0	n
+N	cups	чашка	чашки	f	1	n
+N	mug	кружка	кружки	f	0	n
+N	mugs	кружка	кружки	f	1	n
+N	goblet	кубЇк	кубки	m	0	n
+N	goblets	кубЇк	кубки	m	1	n
+N	window	ЇкнЇ	Їкна	n	0	n
+N	windows	ЇкнЇ	Їкна	n	1	n
+N	cage	клетка	клетки	f	0	n
+N	cages	клетка	клетки	f	1	n
+N	terrarium	террариум	террариумы	m	0	n
+N	terrariums	террариум	террариумы	m	1	n
+N	barrel	бЇчка	бЇчки	f	0	n
+N	barrels	бЇчка	бЇчки	f	1	n
+N	bucket	ведрЇ	вєдра	n	0	n
+N	buckets	ведрЇ	вєдра	n	1	n
+N	animal trap	лЇвушка для зверей	лЇвушки для зверей	f	0	n
+N	animal traps	лЇвушка для зверей	лЇвушки для зверей	f	1	n
+N	chair	креслЇ	кресла	n	0	n
+N	chairs	креслЇ	кресла	n	1	n
+N	throne	трЇн	трЇны	m	0	n
+N	thrones	трЇн	трЇны	m	1	n
+N	web	їаутина	їаутина	f	0	n
+N	webs	їаутина	їаутина	f	1	n
+N	strands	нити	нити	p	1	n
+N	yarn	їряжа	їряжа	f	0	n
+N	thread	нить	нити	f	0	n
+N	threads	нить	нити	f	1	n
+N	cloth	ткань	ткань	f	0	n
+N	sheet	лист	листы	m	0	n
+N	sheets	лист	листы	m	1	n
+N	tanned hide	выделанная шкура	выделанные шкуры	f	0	n
+N	tanned hides	выделанная шкура	выделанные шкуры	f	1	n
+N	totem	тЇтем	тЇтемы	m	0	n
+N	totems	тЇтем	тЇтемы	m	1	n
+N	codex	кЇдекс	кЇдексы	m	0	n
+N	codices	кЇдекс	кЇдексы	m	1	n
+N	figurine	фигурка	фигурки	f	0	n
+N	figurines	фигурка	фигурки	f	1	n
+N	drink	наїитЇк	наїитки	m	0	n
+N	drinks	наїитЇк	наїитки	m	1	n
+N	liquid	жидкЇсть	жидкЇсти	f	0	n
+N	liquids	жидкЇсть	жидкЇсти	f	1	n
+N	powder	їЇрЇшЇк	їЇрЇшки	m	0	n
+N	powders	їЇрЇшЇк	їЇрЇшки	m	1	n
+N	cheese	сыр	сыр	m	0	n
+N	catapult parts	детали катаїульты	детали катаїульты	p	1	n
+N	bolt thrower parts	детали бЇлтЇмєта	детали бЇлтЇмєта	p	1	n
+N	ballista parts	детали баллисты	детали баллисты	p	1	n
+N	mechanism	механизм	механизмы	m	0	n
+N	mechanisms	механизм	механизмы	m	1	n
+N	tube	труба	трубы	f	0	n
+N	tubes	труба	трубы	f	1	n
+N	pipe section	секция трубы	секции трубы	f	0	n
+N	pipe sections	секция трубы	секции трубы	f	1	n
+N	trap component	деталь лЇвушки	детали лЇвушек	f	0	n
+N	trap components	деталь лЇвушки	детали лЇвушек	f	1	n
+N	anvil	накЇвальня	накЇвальни	f	0	n
+N	anvils	накЇвальня	накЇвальни	f	1	n
+N	amulet	амулет	амулеты	m	0	n
+N	amulets	амулет	амулеты	m	1	n
+N	ballista arrow head	накЇнечник стрелы баллисты	накЇнечники стрел баллисты	m	0	n
+N	ballista arrow heads	накЇнечник стрелы баллисты	накЇнечники стрел баллисты	m	1	n
+N	siege ammo	Їсадный снаряд	Їсадные снаряды	m	0	n
+N	ammunition	бЇеїриїасы	бЇеїриїасы	p	1	n
+N	scepter	скиїетр	скиїетры	m	0	n
+N	scepters	скиїетр	скиїетры	m	1	n
+N	crown	кЇрЇна	кЇрЇны	f	0	n
+N	crowns	кЇрЇна	кЇрЇны	f	1	n
+N	coin	мЇнета	мЇнеты	f	0	n
+N	coins	мЇнета	мЇнеты	f	1	n
+N	ring	кЇльцЇ	кЇльца	n	0	n
+N	rings	кЇльцЇ	кЇльца	n	1	n
+N	earring	серьга	серьги	f	0	n
+N	earrings	серьга	серьги	f	1	n
+N	bracelet	браслет	браслеты	m	0	n
+N	bracelets	браслет	браслеты	m	1	n
+N	bed	крЇвать	крЇвати	f	0	n
+N	beds	крЇвать	крЇвати	f	1	n
+N	traction bench	вытяжнЇй стЇл	вытяжные стЇлы	m	0	n
+N	traction benches	вытяжнЇй стЇл	вытяжные стЇлы	m	1	n
+N	quern	ручнЇй жєрнЇв	ручные жернЇва	m	0	n
+N	querns	ручнЇй жєрнЇв	ручные жернЇва	m	1	n
+N	millstone	жернЇв	жернЇва	m	0	n
+N	millstones	жернЇв	жернЇва	m	1	n
+N	statue	статуя	статуи	f	0	n
+N	statues	статуя	статуи	f	1	n
+N	memorial	їамятник	їамятники	m	0	n
+N	memorials	їамятник	їамятники	m	1	n
+N	slab	їлита	їлиты	f	0	n
+N	slabs	їлита	їлиты	f	1	n
+N	corpse	труї	труїы	m	0	n
+N	corpses	труї	труїы	m	1	n
+N	tooth	зуб	зубы	m	0	n
+N	teeth	зуб	зубы	m	1	n
+N	bone	кЇсть	кЇсти	f	0	n
+N	bones	кЇсть	кЇсти	f	1	n
+N	shell	ракЇвина	ракЇвины	f	0	n
+N	shells	ракЇвина	ракЇвины	f	1	n
+N	plant part	часть растения	части растений	f	0	n
+N	plant parts	часть растения	части растений	f	1	n
+N	body part	часть тела	части тела	f	0	n
+N	body parts	часть тела	части тела	f	1	n
+N	horn	рЇг	рЇга	m	0	n
+N	horns	рЇг	рЇга	m	1	n
+N	pearl	жемчужина	жемчужины	f	0	n
+N	pearls	жемчужина	жемчужины	f	1	n
+N	remains	Їстанки	Їстанки	p	1	n
+N	seeds	семена	семена	p	1	n
+N	leaves and fruit	листья и їлЇды	листья и їлЇды	p	1	n
+N	leaf or fruit	лист или їлЇд	листья или їлЇды	m	0	n
+N	leaves or fruit	лист или їлЇд	листья или їлЇды	m	1	n
+N	plant	растение	растения	n	0	n
+N	plants	растение	растения	n	1	n
+N	fish	рыба	рыба	f	0	n
+N	egg	яйцЇ	яйца	n	0	n
+N	eggs	яйцЇ	яйца	n	1	n
+N	small live animal	мелкЇе живЇе живЇтнЇе	мелкие живые живЇтные	n	0	n
+N	small live animals	мелкЇе живЇе живЇтнЇе	мелкие живые живЇтные	n	1	n
+N	small tame animal	мелкЇе ручнЇе живЇтнЇе	мелкие ручные живЇтные	n	0	n
+N	small tame animals	мелкЇе ручнЇе живЇтнЇе	мелкие ручные живЇтные	n	1	n
+N	prepared meal	гЇтЇвЇе блюдЇ	гЇтЇвые блюда	n	0	n
+N	prepared meals	гЇтЇвЇе блюдЇ	гЇтЇвые блюда	n	1	n
+N	meat	мясЇ	мясЇ	n	0	n
+N	weapon	Їружие	Їружие	n	0	n
+N	weapons	Їружие	Їружие	n	1	n
+N	armor	дЇсїехи	дЇсїехи	p	1	n
+N	handwear	Їдежда для рук	Їдежда для рук	f	0	n
+N	shield	щит	щиты	m	0	n
+N	shields	щит	щиты	m	1	n
+N	footwear	Їбувь	Їбувь	f	0	n
+N	headwear	гЇлЇвнЇй убЇр	гЇлЇвные убЇры	m	0	n
+N	legwear	Їдежда для нЇг	Їдежда для нЇг	f	0	n

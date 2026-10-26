@@ -1,0 +1,7 @@
+text_past_profession_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_PROFESSION_YEAR]
+
+Лет [CONTEXT:NUMBER] мЇей жизни ЇтданЇ ремеслу: [CONTEXT:UNIT_NAME].

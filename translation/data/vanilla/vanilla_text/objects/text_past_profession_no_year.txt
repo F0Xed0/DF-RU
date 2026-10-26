@@ -1,0 +1,7 @@
+text_past_profession_no_year
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_PROFESSION_NO_YEAR]
+
+КЇгда-тЇ мЇим ремеслЇм былЇ вЇт чтЇ: [CONTEXT:UNIT_NAME].

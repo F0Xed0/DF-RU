@@ -1,0 +1,7 @@
+text_snatcher_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:SNATCHER_PROFESSION]
+
+Я нахЇжу їрЇїавших детей и вЇзвращаю их дЇмЇй, в край їЇд названием [CONTEXT:PLACE:TRANS_NAME].

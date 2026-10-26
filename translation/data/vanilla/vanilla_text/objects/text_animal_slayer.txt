@@ -1,0 +1,7 @@
+text_animal_slayer
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:ANIMAL_SLAYER]
+
+ПЇка я выслеживаю дЇбычу в краю їЇд названием [CONTEXT:PLACE:TRANS_NAME], на мЇєм счету уже [CONTEXT:NUMBER] ─ [CONTEXT:RACE:NUMBERED_NAME].

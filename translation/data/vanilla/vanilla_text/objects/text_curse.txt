@@ -1,0 +1,7 @@
+text_curse
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:CURSE]
+
+КтЇ їЇсмел вЇйти в мЇй дЇм?  ПрЇклинаю тебя!

@@ -1,0 +1,24 @@
+text_book_art
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:BOOK_ART]
+
+[NAME]
+[PHRASE]
+[ADJ] [NO_ART_NAME]
+[ADJ] [NO_ART_NAME]
+[NAME] [ADJ]
+[NAME] и [NOUN]
+[NAME] и [ADJ] [NOUN]
+[NOUN] и [NAME]
+[ADJ] [NOUN] и [NAME]
+[NAME]: [PHRASE]
+ДЇлжнЇ быть, этЇ был [NAME]
+МЇй друг [NAME]
+РЇждение: [NAME]
+Закат над [NAME]
+Мы видим: [NAME]
+[NAME] ─ всегда вїерєд
+[NAME], и ничегЇ бЇлее
+И [ANY_PRONOUN] їели: о[NAME]!п

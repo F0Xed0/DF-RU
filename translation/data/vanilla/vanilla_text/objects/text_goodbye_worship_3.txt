@@ -1,0 +1,18 @@
+text_goodbye_worship_3
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GOODBYE_WORSHIP_3]
+
+їЇвтЇрять: оСлава тебе, [SPEAKER:HF_LINK:DEITY:TRANS_NAME]!п
+їЇвтЇрять: оСлава тебе, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]!п
+идти с верЇй, чтЇ рядЇм [SPEAKER:HF_LINK:DEITY:TRANS_NAME]
+идти с верЇй, чтЇ рядЇм [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]
+верить: [SPEAKER:HF_LINK:DEITY:TRANS_NAME] не Їставит
+верить: [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] не Їставит
+їЇстигать, ктЇ такЇй [SPEAKER:HF_LINK:DEITY:TRANS_NAME]
+їЇстигать, чтЇ такЇе [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]
+размышлять Ї тЇм, ктЇ такЇй [SPEAKER:HF_LINK:DEITY:TRANS_NAME]
+размышлять Ї тЇм, чтЇ такЇе [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]
+Їтдать себя в руки тЇгЇ, кЇгЇ зЇвут [SPEAKER:HF_LINK:DEITY:TRANS_NAME]
+Їтдать себя вЇ власть стихии о[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]п

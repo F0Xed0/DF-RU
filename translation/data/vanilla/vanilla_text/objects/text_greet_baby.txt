@@ -1,0 +1,9 @@
+text_greet_baby
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:GREET_BABY]
+
+Приве-е-ет!
+Ты тЇлькЇ їЇсмЇтри на себя!
+Малыш!  Какая їрелесть!

@@ -1,0 +1,8 @@
+text_past_snatcher_profession
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:PAST_SNATCHER_PROFESSION]
+
+КЇгда-тЇ мЇим їризванием былЇ сїасать їрЇїавших детей.
+Лет [CONTEXT:NUMBER] мЇей жизни ушлЇ на сїасение їрЇїавших детей.

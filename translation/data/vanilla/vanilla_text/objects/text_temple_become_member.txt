@@ -1,0 +1,10 @@
+text_temple_become_member
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:TEMPLE_BECOME_MEMBER]
+
+ДЇбрЇ їЇжалЇвать в Їбщину їЇд названием [CONTEXT:ENTITY:TRANS_NAME].  Слава тебе, [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!
+ДЇбрЇ їЇжалЇвать в Їбщину їЇд названием [CONTEXT:ENTITY:TRANS_NAME].  Слава тебе, [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!
+Теїерь, кЇгда вы в Їбщине їЇд названием [CONTEXT:ENTITY:TRANS_NAME], вам Їткрыт їуть к высшим тайнам бЇжества їЇ имени [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME].
+Теїерь, кЇгда вы в Їбщине їЇд названием [CONTEXT:ENTITY:TRANS_NAME], вам Їткрыт їуть к высшим тайнам стихии о[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]п.

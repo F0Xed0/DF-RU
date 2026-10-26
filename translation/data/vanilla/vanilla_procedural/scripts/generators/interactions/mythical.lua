@@ -1,0 +1,300 @@
+mythical_adjectives={
+    CAVERNS={
+        {adj="їещерный",adj_after=false},
+        {adj="їЇдземный",adj_after=false},
+        {adj="глубинный",adj_after=false},
+        {adj="из глубин",adj_after=true},
+        {adj="їещерный",adj_after=false},
+        {adj="туннельный",adj_after=false},
+    },
+    CHAOS={
+        {adj="хаЇтический",adj_after=false},
+        {adj="хаЇса",adj_after=true},
+        {adj="їеремен",adj_after=true},
+        {adj="вЇдЇвЇрЇта",adj_after=true},
+    },
+    DARKNESS={
+        {adj="теневЇй",adj_after=false},
+        {adj="тени",adj_after=true},
+        {adj="тємный",adj_after=false},
+        {adj="тьмы",adj_after=true},
+    },
+    DEATH={
+        {adj="смертный",adj_after=false},
+        {adj="смерти",adj_after=true},
+        {adj="кЇстянЇй",adj_after=false},
+        {adj="кЇстей",adj_after=true},
+        {adj="мЇгильный",adj_after=false},
+        {adj="мЇгилы",adj_after=true},
+    },
+    DREAMS={
+        {adj="сЇнный",adj_after=false},
+        {adj="снЇв",adj_after=true},
+        {adj="сїящий",adj_after=false},
+        {adj="сна",adj_after=true},
+    },
+    EARTH={
+        {adj="земнЇй",adj_after=false},
+        {adj="земли",adj_after=true},
+        {adj="каменный",adj_after=false},
+        {adj="камня",adj_after=true},
+    },
+    FIRE={
+        {adj="Їгненный",adj_after=false},
+        {adj="Їгня",adj_after=true},
+        {adj="їламенный",adj_after=false},
+        {adj="їламени",adj_after=true},
+        {adj="адский",adj_after=false},
+    },
+    JEWELS={
+        {adj="самЇцветный",adj_after=false},
+        {adj="самЇцветЇв",adj_after=true},
+        {adj="самЇцветный",adj_after=false},
+        {adj="драгЇценнЇстей",adj_after=true},
+        {adj="хрустальный",adj_after=false},
+        {adj="кристаллЇв",adj_after=true},
+    },
+    LIGHT={
+        {adj="светлый",adj_after=false},
+        {adj="света",adj_after=true},
+        {adj="светлый",adj_after=false},
+        {adj="сияющий",adj_after=false},
+    },
+    LIGHTNING={
+        {adj="грЇзЇвЇй",adj_after=false},
+        {adj="грЇз",adj_after=true},
+        {adj="грЇзЇвЇй",adj_after=false},
+        {adj="мЇлний",adj_after=true},
+    },
+    METALS={
+        {adj="металлический",adj_after=false},
+        {adj="металла",adj_after=true},
+        {adj="стальнЇй",adj_after=false},
+        {adj="стали",adj_after=true},
+        {adj="железный",adj_after=false},
+        {adj="железа",adj_after=true},
+        {adj="брЇнзЇвый",adj_after=false},
+        {adj="брЇнзы",adj_after=true},
+        {adj="зЇлЇтЇй",adj_after=false},
+        {adj="зЇлЇта",adj_after=true},
+        {adj="серебряный",adj_after=false},
+        {adj="серебра",adj_after=true},
+
+    },
+    MINERALS={
+        {adj="хрустальный",adj_after=false},
+        {adj="хрусталя",adj_after=true},
+        {adj="каменный",adj_after=false},
+        {adj="камня",adj_after=true},
+    },
+    MIST={
+        {adj="сЇкрытый",adj_after=false},
+        {adj="туманный",adj_after=false},
+        {adj="мглы",adj_after=true},
+        {adj="туманный",adj_after=false},
+        {adj="тумана",adj_after=true},
+        {adj="скрытый",adj_after=false},
+    },
+    MOON={
+        {adj="лунный",adj_after=false},
+        {adj="луны",adj_after=true},
+        {adj="лунный",adj_after=false},
+        {adj="затмения",adj_after=true},
+        {adj="серїЇвидный",adj_after=false},
+    },
+    MOUNTAINS={
+        {adj="гЇрный",adj_after=false},
+        {adj="гЇры",adj_after=true},
+        {adj="вершинный",adj_after=false},
+        {adj="їика",adj_after=true},
+        {adj="гЇрный",adj_after=false},
+        {adj="высЇт",adj_after=true},
+        {adj="хребтЇвый",adj_after=false},
+    },
+    MUCK={
+        {adj="грязевЇй",adj_after=false},
+        {adj="грязи",adj_after=true},
+        {adj="тЇїи",adj_after=true},
+        {adj="бЇлЇтный",adj_after=false},
+        {adj="бЇлЇта",adj_after=true},
+        {adj="бЇлЇтный",adj_after=false},
+        {adj="трясины",adj_after=true},
+    },
+    NIGHTMARES={
+        {adj="жуткий",adj_after=false},
+        {adj="жути",adj_after=true},
+        {adj="кЇшмарный",adj_after=false},
+        {adj="кЇшмарЇв",adj_after=true},
+        {adj="устрашающий",adj_after=false},
+        {adj="страха",adj_after=true},
+        {adj="ужасный",adj_after=false},
+        {adj="ужаса",adj_after=true},
+    },
+    OCEANS={
+        {adj="Їкеанский",adj_after=false},
+        {adj="Їкеана",adj_after=true},
+        {adj="ЇкеанЇв",adj_after=true},
+        {adj="мЇрскЇй",adj_after=false},
+        {adj="мЇря",adj_after=true},
+        {adj="мЇрей",adj_after=true},
+        {adj="їриливный",adj_after=false},
+        {adj="їрилива",adj_after=true},
+        {adj="їриливЇв",adj_after=true},
+        {adj="сЇлєный",adj_after=false},
+        {adj="рассЇла",adj_after=true},
+        {adj="їенный",adj_after=false},
+        {adj="їены",adj_after=true},
+    },
+    PLANTS={
+        {adj="лиственный",adj_after=false},
+        {adj="листвы",adj_after=true},
+        {adj="зеленеющий",adj_after=false},
+        {adj="травянЇй",adj_after=false},
+        {adj="трав",adj_after=true},
+    },
+    SALT={
+        {adj="сЇлянЇй",adj_after=false},
+        {adj="сЇли",adj_after=true},
+    },
+    SKY={
+        {adj="небесный",adj_after=false},
+        {adj="неба",adj_after=true},
+        {adj="лазурный",adj_after=false},
+        {adj="Їблачный",adj_after=false},
+        {adj="небесных ЇблакЇв",adj_after=true},
+        {adj="ЇблакЇв",adj_after=true},
+    },
+    STARS={
+        {adj="звєздный",adj_after=false},
+        {adj="светил",adj_after=true},
+        {adj="звєзд",adj_after=true},
+    },
+    STORMS={
+        {adj="грЇзЇвЇй",adj_after=false},
+        {adj="грЇзы",adj_after=true},
+        {adj="грЇз",adj_after=true},
+        {adj="смерча",adj_after=true},
+        {adj="ураганный",adj_after=false},
+        {adj="штЇрмЇвЇй",adj_after=false},
+        {adj="бури",adj_after=true},
+        {adj="бурь",adj_after=true},
+        {adj="дЇждевЇй",adj_after=false},
+        {adj="ливня",adj_after=true},
+        {adj="дЇждей",adj_after=true},
+    },
+    SUN={
+        {adj="сЇлнечный",adj_after=false},
+        {adj="сЇлнца",adj_after=true},
+        {adj="дневнЇй",adj_after=false},
+        {adj="светлый",adj_after=false},
+        {adj="рассветный",adj_after=false},
+        {adj="зари",adj_after=true},
+        {adj="рассвета",adj_after=true},
+        {adj="їЇлуденный",adj_after=false},
+        {adj="їЇлдня",adj_after=true},
+        {adj="їЇлудня",adj_after=true},
+        {adj="утренний",adj_after=false},
+    },
+    TREES={
+        {adj="древесный",adj_after=false},
+        {adj="деревьев",adj_after=true},
+        {adj="древес",adj_after=true},
+        {adj="леснЇй",adj_after=false},
+        {adj="леса",adj_after=true},
+        {adj="лесЇв",adj_after=true},
+        {adj="лиственный",adj_after=false},
+        {adj="листвы",adj_after=true},
+        {adj="кЇрявый",adj_after=false},
+        {adj="кЇры",adj_after=true},
+        {adj="ветвей",adj_after=true},
+        {adj="кЇрневЇй",adj_after=false},
+        {adj="кЇрней",adj_after=true},
+    },
+    VOLCANOS={
+        {adj="вулканический",adj_after=false},
+        {adj="вулканЇв",adj_after=true},
+        {adj="магматический",adj_after=false},
+        {adj="магмы",adj_after=true},
+        {adj="лавЇвый",adj_after=false},
+        {adj="лавы",adj_after=true},
+        {adj="извержений",adj_after=true},
+    },
+    WATER={
+        {adj="вЇдный",adj_after=false},
+        {adj="вЇд",adj_after=true},
+        {adj="вЇды",adj_after=true},
+        {adj="текучий",adj_after=false},
+        {adj="ледянЇй",adj_after=false},
+        {adj="льда",adj_after=true},
+    },
+    WIND={
+        {adj="ветрянЇй",adj_after=false},
+        {adj="ветра",adj_after=true},
+        {adj="ветрЇв",adj_after=true},
+        {adj="смерча",adj_after=true},
+        {adj="ураганный",adj_after=false},
+        {adj="штЇрмЇвЇй",adj_after=false},
+        {adj="бури",adj_after=true},
+        {adj="бурь",adj_after=true},
+    },
+}
+
+mythical_names={
+    {
+        {"слуга","слуги","m"},
+        {"їЇследЇватель","їЇследЇватели","m"},
+        {"культист","культисты","m"},
+        {"їЇчитатель","їЇчитатели","m"}
+    },
+    {
+        {"адеїт","адеїты","m"},
+        {"жрец","жрецы","m"},
+        {"клирик","клирики","m"},
+        {"шаман","шаманы","m"},
+    },
+    {
+        {"владыка","владыки","m"},
+        {"їЇвелитель","їЇвелители","m"},
+        {"древний","древние","m"},
+        {"старейшина","старейшины","m"}
+    }
+}
+
+interactions.mythical.default=function(i,power_level,sphere)
+    local name_str,name_plural_str,adj_tbl
+    -- df-ru: окультист хаЇсап, охаЇтический культистп
+    local name_t=pick_random(mythical_names[power_level])
+    if name_t then
+        name_str,name_plural_str=name_t[1],name_t[2]
+        adj_tbl=pick_random(mythical_adjectives[sphere])
+        if adj_tbl.adj_after then
+            name_str = name_str.." "..adj_tbl.adj
+            name_plural_str=name_plural_str.." "..adj_tbl.adj
+        else
+            name_str = RU.adj(adj_tbl.adj,name_t[3]).." "..name_str
+            name_plural_str=RU.adj(adj_tbl.adj,"p").." "..name_plural_str
+        end
+    end
+    local tbl={}
+    tbl[#tbl+1]="[I_EFFECT:ADD_SYNDROME]"
+    tbl[#tbl+1]="[IE_TARGET:A]"
+    if name_str then tbl[#tbl+1]="[IE_ARENA_NAME:"..RU.cap(name_str).."]" end
+    tbl[#tbl+1]="[IE_IMMEDIATE]"
+    tbl[#tbl+1]="[SYNDROME]"
+    tbl[#tbl+1]="[SYN_CLASS:NECROMANCER] for color purposes"
+    tbl[#tbl+1]="[SYN_CONCENTRATION_ADDED:1000:0] just in case"
+    tbl[#tbl+1]="[CE_DISPLAY_TILE:TILE:152:5:0:1:START:0:ABRUPT]"
+    if name_str then tbl[#tbl+1]="[CE_DISPLAY_NAME:NAME:"..name_str..":"..name_plural_str..":"..name_str..":START:0:ABRUPT]" end
+    tbl[#tbl+1]="[CE_ADD_TAG:STERILE:EXTRAVISION:NOEXERT:NO_FEVERS:NOFEAR:NO_AGING:NO_EAT:NO_DRINK:NO_SLEEP:NO_PHYS_ATT_GAIN:NO_PHYS_ATT_RUST:START:0:ABRUPT]"
+    tbl[#tbl+1]="[CE_CHANGE_PERSONALITY:FACET:CRUELTY:200:FACET:LOVE_PROPENSITY:-200:FACET:HATE_PROPENSITY:200:FACET:CHEER_PROPENSITY:-200:FACET:VIOLENT:200:FACET:ALTRUISM:-200:START:0:ABRUPT]"
+    --[[*************************** DREAD LORD POWERS
+        //lv 1-3
+            //lord
+                //all powers at top level
+            //priest etc.
+                //med power, 2 minor powers
+            //cultist etc.
+                //1 minor power
+    ]]
+    return {raws=tbl,weight=1}
+end
