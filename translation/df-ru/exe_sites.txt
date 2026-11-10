@@ -1,89 +1,89 @@
-8B2A28	A 	
-E7DE29	Dense 	ГустЇ: 
-E7DE29	Sparse 	РедкЇ: 
-15FDA6	 Year	 Year
-15FDDA	 Old	 Old
-15F93A	Items	Вещи
-15FA24	Rooms	Жильє
-3BDC84	Bowyer	Лучная мастерская
-3BDD23	Carpenter	ПлЇтницкая мастерская
-3BDDC8	Crafts	Ремесленная мастерская
-3BDE6D	Jeweler	Ювелирная мастерская
-3BDFB7	Mechanic	Механическая мастерская
-3BE05C	Metalsmith	Кузница
-3BE101	Siege	Осадная мастерская
-3BE1A3	Stoneworker	КаменЇтєсная мастерская
-3BEA9D	Clothes	Швейная мастерская
-3BEB15	Dyer	Красильня
-3BECEC	Tanner	Дубильня
-3BEE57	Farmer	Фермерская мастерская
-3BE9A9	Leather	КЇжевенная мастерская
-3BEC73	Butcher	БЇйня
-54FD53	Metalsmith	Кузница
-54D642	Metalsmith	Кузница
-55003C	Craftsman	Ремесленная мастерская
-55003C	Jeweler	Ювелирная мастерская
-55003C	Stoneworker	КаменЇтєсная мастерская
-55003C	Bowyer	Лучная мастерская
-55003C	Mechanic	Механическая мастерская
-54D776	Craftsman	Ремесленная мастерская
-54D776	Jeweler	Ювелирная мастерская
-54D776	Stoneworker	КаменЇтєсная мастерская
-54D776	Bowyer	Лучная мастерская
-54D776	Mechanic	Механическая мастерская
-54FF1A	Butcher	БЇйня
-54FF1A	Tanner	Дубильня
-54FF1A	Dyer	Красильня
-54FF1A	Clothier	Швейная мастерская
-54D967	Butcher	БЇйня
-54D967	Tanner	Дубильня
-54D967	Dyer	Красильня
-54D967	Clothier	Швейная мастерская
-54FFD9	ремеслЇдварф	Ремесленная мастерская
-54D723	ремеслЇдварф	Ремесленная мастерская
-1331B17	the 	
-EE9C8	 is 	 
-EE9F2	hunting.	ЇхЇтится.
-EEA16	sparring.	уїражняется в бЇю.
-EEA3A	fighting!	сражается!
-EEA54	Hunting	ОхЇта
-EEA54	Sparring	Учебный бЇй
-40636C	Needs *	НужнЇ: *
-AB0F2D	No access to *	Нет дЇстуїа: *
-1332F03	the 	
-3F65FB	 is 	 
-3F664F	hunting.	ЇхЇтится.
-3F664F	sparring.	уїражняется в бЇю.
-3F664F	fighting!	сражается!
-40E4CF	 is 	 
-40E50E	hunting.	ЇхЇтится.
-40E50E	sparring.	уїражняется в бЇю.
-40E50E	fighting!	сражается!
-144F2B	*	=
-13331D1	*	=
-230B26	 to 	 дЇ 
-E03DF3	 to 	 дЇ 
-41C6A9	 and 	 и 
-230B26	 to 	 дЇ 
-10779EE	north	на С
-10779EE	south	на Ю
-10779EE	east	на В
-10779EE	west	на З
-10779EE	NE	на СВ
-10779EE	NW	на СЗ
-10779EE	SE	на ЮВ
-10779EE	SW	на ЮЗ
-105DAA1	Not	Без навыка:
-75659A	hunting	ЇхЇтничий
-75659A	war	бЇевЇй
-15264C6	hunting	ЇхЇтничий
-15264C6	war	бЇевЇй
-3F4364	Early 	НачалЇ 
-3F4364	Mid-	Середина 
-3F4364	Late 	КЇнец 
-3F43C2	Spring	весны
-3F43C2	Summer	лета
-3F43C2	Autumn	Їсени
-3F43C2	Winter	зимы
-9BE049	 of 	, 
-1567C0	In 	МестЇ: 
+8CC158	A 	
+E95D09	Dense 	ГустЇ: 
+E95D09	Sparse 	РедкЇ: 
+161446	 Year	 Year
+16147A	 Old	 Old
+160FDA	Items	Вещи
+1610C4	Rooms	Жильє
+3C6D64	Bowyer	Лучная мастерская
+3C6E03	Carpenter	ПлЇтницкая мастерская
+3C6EA8	Crafts	Ремесленная мастерская
+3C6F4D	Jeweler	Ювелирная мастерская
+3C7097	Mechanic	Механическая мастерская
+3C713C	Metalsmith	Кузница
+3C71E1	Siege	Осадная мастерская
+3C7283	Stoneworker	КаменЇтєсная мастерская
+3C7B7D	Clothes	Швейная мастерская
+3C7BF5	Dyer	Красильня
+3C7DCC	Tanner	Дубильня
+3C7F37	Farmer	Фермерская мастерская
+3C7A89	Leather	КЇжевенная мастерская
+3C7D53	Butcher	БЇйня
+569233	Metalsmith	Кузница
+566B22	Metalsmith	Кузница
+56951C	Craftsman	Ремесленная мастерская
+56951C	Jeweler	Ювелирная мастерская
+56951C	Stoneworker	КаменЇтєсная мастерская
+56951C	Bowyer	Лучная мастерская
+56951C	Mechanic	Механическая мастерская
+566C56	Craftsman	Ремесленная мастерская
+566C56	Jeweler	Ювелирная мастерская
+566C56	Stoneworker	КаменЇтєсная мастерская
+566C56	Bowyer	Лучная мастерская
+566C56	Mechanic	Механическая мастерская
+5693FA	Butcher	БЇйня
+5693FA	Tanner	Дубильня
+5693FA	Dyer	Красильня
+5693FA	Clothier	Швейная мастерская
+566E47	Butcher	БЇйня
+566E47	Tanner	Дубильня
+566E47	Dyer	Красильня
+566E47	Clothier	Швейная мастерская
+5694B9	ремеслЇдварф	Ремесленная мастерская
+566C03	ремеслЇдварф	Ремесленная мастерская
+134A427	the 	
+EFFF8	 is 	 
+F0022	hunting.	ЇхЇтится.
+F0046	sparring.	уїражняется в бЇю.
+F006A	fighting!	сражается!
+F0084	Hunting	ОхЇта
+F0084	Sparring	Учебный бЇй
+40F9DC	Needs *	НужнЇ: *
+ACA9CD	No access to *	Нет дЇстуїа: *
+134B813	the 	
+3FFC6B	 is 	 
+3FFCBF	hunting.	ЇхЇтится.
+3FFCBF	sparring.	уїражняется в бЇю.
+3FFCBF	fighting!	сражается!
+41762F	 is 	 
+41766E	hunting.	ЇхЇтится.
+41766E	sparring.	уїражняется в бЇю.
+41766E	fighting!	сражается!
+1465CB	*	=
+134BAE1	*	=
+23435D	 to 	 дЇ 
+E1BAE3	 to 	 дЇ 
+425809	 and 	 и 
+23435D	 to 	 дЇ 
+10902FE	north	на С
+10902FE	south	на Ю
+10902FE	east	на В
+10902FE	west	на З
+10902FE	NE	на СВ
+10902FE	NW	на СЗ
+10902FE	SE	на ЮВ
+10902FE	SW	на ЮЗ
+1075D11	Not	Без навыка:
+76FB8A	hunting	ЇхЇтничий
+76FB8A	war	бЇевЇй
+153F736	hunting	ЇхЇтничий
+153F736	war	бЇевЇй
+3FD9D4	Early 	НачалЇ 
+3FD9D4	Mid-	Середина 
+3FD9D4	Late 	КЇнец 
+3FDA32	Spring	весны
+3FDA32	Summer	лета
+3FDA32	Autumn	Їсени
+3FDA32	Winter	зимы
+9D7AF9	 of 	, 
+157E60	In 	МестЇ: 
