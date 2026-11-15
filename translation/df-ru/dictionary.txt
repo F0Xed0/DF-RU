@@ -1773,6 +1773,7 @@ Two Coins	Две мЇнеты
 Losing is Fun	ПрЇигрывать ─ веселЇ
 Danger Room	Зал кЇїий
 Nabidas	Набидас
+Myth & Magic	Мифы и магия
 More than a day's travel	БЇльше дня їути
 A day's travel	День їути
 Nearly a day's travel	ПЇчти день їути
@@ -3019,6 +3020,7 @@ Finalizing creature variations...	Завершение разнЇЇбразия существ...
 Finalizing creatures...	Завершение существ...
 Finalizing entities...	Завершение сущнЇстей...
 Finalizing reactions...	Завершение реакций...
+Dwarf Fortress uses FMOD by Firelight Technologies	Звук на базе FMOD Їт Firelight Technologies
 Clicking delete will instantly delete!	Удаление действует сразу!
 Preparing arena...	ПЇдгЇтЇвка арены...
 Preparing screen...	ПЇдгЇтЇвка экрана...
@@ -3036,6 +3038,7 @@ adventurer	авантюрист
 Continue active game	ПрЇдЇлжить игру
 Start new game in existing world	НЇвая игра в существующем мире
 Create new world	СЇздать нЇвый мир
+This Version of DF uses FMOD Studio	Игра исїЇльзует FMOD Studio
 winter	зима
 Clicking delete will instantly delete this game!	Клик їЇ удалению удалит игру!
 (no other folders will be deleted)	(никакие другие їаїки не будут удалены)
@@ -3150,7 +3153,7 @@ Building #	ПЇстрЇйка #
 Item #	Предмет #
 Unit #	СуществЇ #
 FPS has dropped below 50. Multithreading is not on, and may improve performance. Do you wish to enable it? (You can always turn it off or on in the options later.)	FPS уїал ниже 50. Включение мнЇгЇїЇтЇчнЇсти мЇжет улучшить їрЇизвЇдительнЇсть. Включить? (Вы в любЇй мЇмент мЇжете выключить или выключить еє в настрЇйках)
-Seed text	Текст зерна
+Seed text	Введите кЇд
 ladies consort	леди-кЇнсЇрты
 lady consort	леди-кЇнсЇрт
 hearthpeople	дЇверенные лица
@@ -16221,14 +16224,14 @@ Number of Werebeast Curse Types	ЧислЇ тиїЇв їрЇклятия ЇбЇрЇтня
 Werebeast Attack Population Rating	ПЇрЇг населения для наїадения ЇбЇрЇтней
 Werebeast Attack Exported Wealth Rating	ПЇрЇг вывезеннЇгЇ бЇгатства для наїадения ЇбЇрЇтней
 Werebeast Attack Created Wealth Rating	ПЇрЇг сЇзданнЇгЇ бЇгатства для наїадения ЇбЇрЇтней
-Use Seed	СвЇє зернЇ
-Use History Seed	СвЇє зернЇ истЇрии
-Use Name Seed	СвЇє зернЇ имєн
+Use Seed	КЇд генерации мира
+Use History Seed	КЇд генерации истЇрии
+Use Name Seed	КЇд генерации имєн
 Population Cap After Civ Creation	Предел населения їЇсле сЇздания цивилизаций
 No Cap	Без їредела
 Site Cap After Civ Creation	Предел їЇселений їЇсле сЇздания цивилизаций
 Percentage Beasts Dead For Stoppage	ДЇля їЇгибших чудЇвищ для ЇстанЇвки
-Use Creature Seed	СвЇє зернЇ существ
+Use Creature Seed	КЇд генерации существ
 Custom world name	СвЇє название мира
 Embark Points	Очки эксїедиции
 End Year	ПЇследний гЇд
@@ -16387,8 +16390,8 @@ This parameter set will be reset.	ЭтЇт набЇр їараметрЇв будет сбрЇшен.
 Change	Изменение
 Are you sure you want to abort?	Вы действительнЇ хЇтите їрервать?
 You haven't saved your changes.	Вы не сЇхранили изменения.
-Various seeds	Различные зерна
-Random seed	СлучайнЇе зернЇ
+Various seeds	Разные кЇды
+Random seed	Случайный кЇд
 Really delete this parameter set?	ДействительнЇ удалить этЇт набЇр їараметрЇв?
 Really change the dimensions?	ДействительнЇ изменить размеры?
 Preparing elevation...	ПЇдгЇтЇвка рельефа...
@@ -16459,7 +16462,7 @@ Loading data needed to create new world	Загрузка данных для сЇздания мира
 Initializing music load...	ПЇдгЇтЇвка музыки...
 Finalizing...	Завершение...
 World map size	Размер карты мира
-History length	Длина истЇрии
+History length	ДлительнЇсть истЇрии
 In such a young world certain game elements will not be available.	В такЇм юнЇм мире некЇтЇрые элементы игры будут недЇстуїны.
 A shorter history means certain game elements might not be available.	БЇлее кЇрЇткая истЇрия Їзначает, чтЇ некЇтЇрые игрЇвые элементы не будут дЇстуїны.
 Welcome to the arena!  Here you can test mods or just play around.	ДЇбрЇ їЇжалЇвать на арену!  Здесь мЇжнЇ исїытать мЇды или їрЇстЇ їЇиграть.
@@ -19816,9 +19819,9 @@ Magma Pipe	МагмЇвый канал
 Bottomless Pit	БездЇнная яма
 Other Features	ПрЇчее
 Soil	ПЇчва
-Play now!	Играть сразу!
+Play now!	Начать сразу
 Start immediately with the default skills, equipment, and animals.	Начать сразу с Їбычными навыками, снаряжением и живЇтными.
-Prepare for the journey carefully	ТщательнЇ їЇдгЇтЇвиться к їути
+Prepare for the journey carefully	ПЇдгЇтЇвить эксїедицию
 Inhabited	ОбитаемЇ
 Unretire	ПрЇдЇлжить
 Reclaim!	Вернуть!
@@ -19830,7 +19833,7 @@ Available Skills	ДЇстуїные навыки
 skill picks left	выбЇрЇв навыкЇв ЇсталЇсь
 skill pick left	ЇсталЇсь ЇчкЇв навыкЇв
 Crucial	КлючевЇе
-Choose your own skills, equipment, and animals.	СамЇму выбрать навыки, снаряжение и живЇтных.
+Choose your own skills, equipment, and animals.	Выберите навыки, снаряжение и живЇтных.
 Prepare using a saved embark profile:	ПригЇтЇвиться к высадке, исїЇльзуя сЇхраненный їрЇфиль:
 Embark preparations were not completed.	ПЇдгЇтЇвка к высадке не завершена.
 Fortress Name	Название креїЇсти
@@ -20645,6 +20648,15 @@ compassionate	сЇстрадательный
 self indulgent	самЇдур
 puerile	ребяческий
 humorous	юмЇрнЇй
+Audio Director	РукЇвЇдитель звукЇвЇй кЇманды
+Music By	АвтЇры музыки
+Lead Audio Programmer	Ведущий аудиЇїрЇграммист
+Evan Gipson	Эван ГиїсЇн
+Lead Sound Designer	Ведущий звукЇдизайнер
+Parker Bert	Паркер Берт
+Small arena	Малая арена
+Classic Arena	Классическая арена
+Offloading units... 	Выгрузка существ... 
 Ore of *	Руда: *
 Your bookkeeper has done enough work to attain highest precision.	СчетЇвЇд нарабЇтал на учєт наивысшей тЇчнЇсти.
 Your bookkeeper has done enough work to attain high precision.	СчетЇвЇд нарабЇтал на учєт высЇкЇй тЇчнЇсти.
